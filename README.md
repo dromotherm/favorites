@@ -14,3 +14,7 @@ https://github.blog/2015-03-09-open-source-license-usage-on-github-com/
 ## energy
 
 https://frankdiana.net/2014/07/15/the-energy-internet/
+
+## buildings
+
+https://www.batiactu.com/edito/katerra-start-up-americaine-qui-uberise-batiment-57920.php
