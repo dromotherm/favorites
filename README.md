@@ -20,3 +20,5 @@ https://www.numerama.com/tech/573675-ces-panneaux-solaires-atteignent-une-chaleu
 ## buildings
 
 https://www.batiactu.com/edito/katerra-start-up-americaine-qui-uberise-batiment-57920.php
+
+https://www.batiactu.com/edito/donner-sens-a-donnee-performance-energetique-pertinente-57930.php?MD5email=7990f9ffd110522d9783a851b99cabe5&utm_source=news_actu&utm_medium=edito&utm_content=article
