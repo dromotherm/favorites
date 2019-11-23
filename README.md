@@ -15,7 +15,7 @@ https://github.blog/2015-03-09-open-source-license-usage-on-github-com/
 
 https://frankdiana.net/2014/07/15/the-energy-internet/
 
-https://www.batiactu.com/edito/katerra-start-up-americaine-qui-uberise-batiment-57920.php
+https://www.numerama.com/tech/573675-ces-panneaux-solaires-atteignent-une-chaleur-record-un-bond-dans-le-futur-pour-lindustrie.html
 
 ## buildings
 
