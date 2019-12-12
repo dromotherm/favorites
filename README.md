@@ -17,6 +17,8 @@ https://frankdiana.net/2014/07/15/the-energy-internet/
 
 https://www.numerama.com/tech/573675-ces-panneaux-solaires-atteignent-une-chaleur-record-un-bond-dans-le-futur-pour-lindustrie.html
 
+https://www.batirama.com/amp/article/27784-les-pompes-a-chaleur-nouvelle-generation-voient-le-jour-a-interclima-2019.html
+
 ## buildings
 
 https://www.batiactu.com/edito/katerra-start-up-americaine-qui-uberise-batiment-57920.php
