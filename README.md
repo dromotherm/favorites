@@ -31,6 +31,8 @@ https://en.wikipedia.org/wiki/Building_performance_simulation
 
 https://www.thirtythreeforty.net/posts/2019/08/mastering-embedded-linux-part-1-concepts/
 
+https://www.thirtythreeforty.net/posts/2019/12/mastering-embedded-linux-part-2-hardware/
+
 ## pcb printing
 
 https://jlcpcb.com/
