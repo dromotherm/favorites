@@ -30,3 +30,7 @@ https://en.wikipedia.org/wiki/Building_performance_simulation
 ## embedded systems with linux
 
 https://www.thirtythreeforty.net/posts/2019/08/mastering-embedded-linux-part-1-concepts/
+
+## pcb printing
+
+https://jlcpcb.com/
