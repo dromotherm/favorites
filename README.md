@@ -54,3 +54,5 @@ https://www.l-expert-comptable.com/calculateurs/simulateur-d-embauche-combien-co
 ## incubation
 
 https://www.ycombinator.com/video/
+
+https://www.ycombinator.com/howtoapply/
