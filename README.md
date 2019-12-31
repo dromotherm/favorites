@@ -56,3 +56,5 @@ https://www.l-expert-comptable.com/calculateurs/simulateur-d-embauche-combien-co
 https://www.ycombinator.com/video/
 
 https://www.ycombinator.com/howtoapply/
+
+http://paulgraham.com/articles.html
