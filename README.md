@@ -38,3 +38,13 @@ https://www.thirtythreeforty.net/posts/2019/12/mastering-embedded-linux-part-2-h
 https://jlcpcb.com/
 
 http://ragworm.eu
+
+## start your company 
+
+https://www.compta-facile.com/choisir-duree-amortissement-immobilisations/
+
+https://www.sogedev.com/statut-jeune-entreprise-innovante.php
+
+https://www.sogedev.com/jei-depenses.php
+
+https://www.l-expert-comptable.com/calculateurs/simulateur-d-embauche-combien-coute-un-salarie.html
