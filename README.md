@@ -58,3 +58,7 @@ https://www.ycombinator.com/video/
 https://www.ycombinator.com/howtoapply/
 
 http://paulgraham.com/articles.html
+
+## data & aesthetics
+
+https://serialmentor.com/dataviz/
