@@ -12,4 +12,6 @@ multical 603 / 803
 ultraflow54 which can monitor pipes with a max diameter of 300 mm
 For more informations : 
 
-https://www.kamstrup.com/en-en/services-and-support_/support_/product-support_
+https://www.kamstrup.com/
+
+https://www.kamstrup.com/en-en/heat-solutions/heat-meters/multical-803
