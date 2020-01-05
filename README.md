@@ -21,6 +21,8 @@ https://www.numerama.com/tech/573675-ces-panneaux-solaires-atteignent-une-chaleu
 
 https://www.batirama.com/amp/article/27784-les-pompes-a-chaleur-nouvelle-generation-voient-le-jour-a-interclima-2019.html
 
+http://www.acr-regulation.com/syndicat/publications
+
 ## buildings
 
 https://www.batiactu.com/edito/katerra-start-up-americaine-qui-uberise-batiment-57920.php
