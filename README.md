@@ -13,6 +13,8 @@ https://github.blog/2015-03-09-open-source-license-usage-on-github-com/
 
 https://linux.developpez.com/actu/288964/Linux-et-l-open-source-sera-confronte-a-deux-problemes-en-2020-selon-Bryan-Lunduke-un-ancien-membre-du-conseil-d-administration-d-openSUSE/
 
+https://windows.developpez.com/
+
 ## energy
 
 https://frankdiana.net/2014/07/15/the-energy-internet/
@@ -30,6 +32,10 @@ https://www.batiactu.com/edito/katerra-start-up-americaine-qui-uberise-batiment-
 https://www.batiactu.com/edito/donner-sens-a-donnee-performance-energetique-pertinente-57930.php?MD5email=7990f9ffd110522d9783a851b99cabe5&utm_source=news_actu&utm_medium=edito&utm_content=article
 
 https://en.wikipedia.org/wiki/Building_performance_simulation
+
+## home automation / domotique
+
+http://sarakha63-domotique.fr/jeedom-domotiser-une-vanne-3-voies/
 
 ## embedded systems with linux
 
@@ -52,6 +58,10 @@ https://www.sogedev.com/statut-jeune-entreprise-innovante.php
 https://www.sogedev.com/jei-depenses.php
 
 https://www.l-expert-comptable.com/calculateurs/simulateur-d-embauche-combien-coute-un-salarie.html
+
+https://www.bpifrance.fr/A-la-une/Dossiers/Comprendre-l-offre/L-offre-Bpifrance-pour-qui-pour-quoi-17487
+
+
 
 ## incubation
 
