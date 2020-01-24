@@ -17,6 +17,8 @@ https://windows.developpez.com/
 
 https://www.zdnet.fr/amp/actualites/cloud-computing-la-lourde-tendance-2020-le-serverless-progresse-39896487.htm
 
+https://www.zdnet.fr/actualites/werner-vogels-dt-d-amazon-l-industrie-40-a-besoin-de-beaucoup-plus-de-donnees-39895515.htm
+
 ## energy
 
 https://frankdiana.net/2014/07/15/the-energy-internet/
