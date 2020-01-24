@@ -15,6 +15,8 @@ https://linux.developpez.com/actu/288964/Linux-et-l-open-source-sera-confronte-a
 
 https://windows.developpez.com/
 
+https://www.zdnet.fr/amp/actualites/cloud-computing-la-lourde-tendance-2020-le-serverless-progresse-39896487.htm
+
 ## energy
 
 https://frankdiana.net/2014/07/15/the-energy-internet/
