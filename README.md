@@ -19,6 +19,10 @@ https://www.zdnet.fr/amp/actualites/cloud-computing-la-lourde-tendance-2020-le-s
 
 https://www.zdnet.fr/actualites/werner-vogels-dt-d-amazon-l-industrie-40-a-besoin-de-beaucoup-plus-de-donnees-39895515.htm
 
+https://www.lemagit.fr/actualites/252456605/Integration-continue-CI-Travis-CI-tombe-dans-le-giron-dIdera
+
+https://www.lemagit.fr/actualites/252476381/Avec-un-ami-comme-AWS-qui-a-besoin-de-lopen-source?amp=1
+
 ## energy
 
 https://frankdiana.net/2014/07/15/the-energy-internet/
