@@ -25,6 +25,11 @@ https://www.lemagit.fr/actualites/252476381/Avec-un-ami-comme-AWS-qui-a-besoin-d
 
 [amazon-aws-cloud-competition](AWS_vs_opensource.md)
 
+https://aws.amazon.com/fr/blogs/opensource/keeping-open-source-open-open-distro-for-elasticsearch/
+
+https://arstechnica.com/information-technology/2019/10/is-the-software-world-taking-too-much-from-the-open-source-community/
+
+
 ## energy
 
 https://frankdiana.net/2014/07/15/the-energy-internet/
