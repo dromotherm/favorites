@@ -1,4 +1,4 @@
-" Software start-ups have a phrase for what Amazon is doing to them: ‘strip-mining’ them of their innovations.
+# Software start-ups have a phrase for what Amazon is doing to them: ‘strip-mining’ them of their innovations.
 
 By Daisuke Wakabayashi
 
@@ -37,7 +37,7 @@ Even so, smaller rivals say they have little choice but to work with Amazon. Giv
 start-ups often agree to its restrictions on promoting their own products and voluntarily share client and product information 
 with it. For the privilege of selling through A.W.S., the start-ups pay a cut of their sales back to Amazon.
 
-Some of the companies have a phrase for what Amazon is doing: strip-mining software. 
+**Some of the companies have a phrase for what Amazon is doing: strip-mining software.**
 By lifting other people’s innovations, trying to poach their engineers and profiting off what they made, 
 Amazon is choking off the growth of would-be competitors and forcing them to reorient how they do business, the companies said.
 
@@ -55,9 +55,9 @@ It is rethinking how people buy prescription drugs, purchase real estate and bui
 But what Amazon is doing through A.W.S. is arguably more consequential. 
 The company is the unquestioned market leader — triple the size of its nearest competitor, Microsoft — in the seismic shift to cloud computing. Millions of people unknowingly interact with A.W.S. every day when they stream movies on Netflix or store photos on Apple’s iCloud, services that run off Amazon’s machines.
 
-Jeff Bezos, Amazon’s chief executive, once called A.W.S. an idea “no one asked for.” The service began in the early 2000s 
+**Jeff Bezos, Amazon’s chief executive, once called A.W.S. an idea “no one asked for.” The service began in the early 2000s 
 when the retailer struggled to assemble computer systems to start new projects and features. 
-Once it built a common computer infrastructure, Amazon realized other companies needed similar capabilities.
+Once it built a common computer infrastructure, Amazon realized other companies needed similar capabilities.**
 
 Now companies like Airbnb and General Electric essentially rent computing from Amazon — 
 otherwise known as using the “cloud” — instead of buying and running their own systems. 
@@ -115,10 +115,10 @@ Instead, the company plucked from a freely shared option known as open source.
 Open-source software has few parallels in business. It is akin to a coffee shop 
 giving away coffee on the hopes that people spend on milk or sugar or pastries.
 
-But open source is a tried and true model nurtured by the software industry to get technology to 
+**But open source is a tried and true model nurtured by the software industry to get technology to 
 customers quickly. A community of enthusiasts often springs up around the shareable technology, 
 contributing improvements and spreading the word about its benefits. 
-Traditionally, open-source companies later earn money for customer support or from paid add-ons.
+Traditionally, open-source companies later earn money for customer support or from paid add-ons.**
 
 Technologists initially paid little attention to what Amazon had done with database software. 
 Then in 2015, Amazon repeated the maneuver by copying Elasticsearch and offering its competing service.
