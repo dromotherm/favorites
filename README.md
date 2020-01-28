@@ -23,6 +23,8 @@ https://www.lemagit.fr/actualites/252456605/Integration-continue-CI-Travis-CI-to
 
 https://www.lemagit.fr/actualites/252476381/Avec-un-ami-comme-AWS-qui-a-besoin-de-lopen-source?amp=1
 
+https://www.nytimes.com/2019/12/15/technology/amazon-aws-cloud-competition.html
+
 ## energy
 
 https://frankdiana.net/2014/07/15/the-energy-internet/
