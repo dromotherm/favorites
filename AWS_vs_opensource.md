@@ -93,9 +93,9 @@ who were called in but were not authorized to discuss the matter.
 What Amazon is doing to software start-ups is unsustainable, said Salil Deshpande, 
 founder of Uncorrelated, a venture capital firm.
 
-“It has intercepted their monetization, it has forcibly wrestled control of 
+**“It has intercepted their monetization, it has forcibly wrestled control of 
 software from their owners and it has siphoned customers to its own proprietary services,” he said.
-The success of A.W.S. “is built on strip-mining open-source technology,” said Michael Howard, chief executive of MariaDB.
+The success of A.W.S. “is built on strip-mining open-source technology,” said Michael Howard, chief executive of MariaDB.**
 
 When Amazon Web Services began last decade, Amazon was struggling to turn a consistent profit. 
 A service to provide computing power seemed like a distraction.
@@ -232,16 +232,16 @@ An Amazon spokesman said it had stopped this practice.
 Companies are also instructed to strike claims about being “the best,” “the first,” “the only,” “the leader,” 
 unless substantiated by independent research.
 
-Redis Labs was founded in 2011 in Tel Aviv, Israel, to build a business around managing a free software called Redis, 
-which people use to organize and update data quickly. Amazon soon offered a competing paid service.
+**Redis Labs was founded in 2011 in Tel Aviv, Israel, to build a business around managing a free software called Redis, 
+which people use to organize and update data quickly. Amazon soon offered a competing paid service.**
 
 While that created a formidable rival to Redis Labs, Amazon’s move also validated Redis technology. 
 The start-up has since raised $150 million, exemplifying the can’t-live-with-can’t-live-without 
 relationship that many software companies have with Amazon.
 
-Former Redis Labs employees estimate that Amazon generates as much as $1 billion a year from Redis technology — 
+**Former Redis Labs employees estimate that Amazon generates as much as $1 billion a year from Redis technology — 
 or at least 10 times more revenue than Redis Labs. They said Amazon also tried to poach its staff and undercut 
-it with hefty discounts.
+it with hefty discounts.**
 
 A.W.S. offers a discount to customers who commit to spending at least a certain amount with it, but 
 it does not treat money spent on A.W.S.’s own services and rival services equally. Spending on outside 
