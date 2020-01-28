@@ -1,7 +1,9 @@
-Software start-ups have a phrase for what Amazon is doing to them: ‘strip-mining’ them of their innovations.
-Daisuke Wakabayashi
+" Software start-ups have a phrase for what Amazon is doing to them: ‘strip-mining’ them of their innovations.
 
 By Daisuke Wakabayashi
+
+from https://www.nytimes.com/2019/12/15/technology/amazon-aws-cloud-competition.html
+
 
 SEATTLE — Elastic, a software start-up in Amsterdam, was rapidly building its business and had grown to 100 employees. 
 Then Amazon came along.
