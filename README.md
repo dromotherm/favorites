@@ -48,6 +48,8 @@ https://www.batiactu.com/edito/donner-sens-a-donnee-performance-energetique-pert
 
 https://en.wikipedia.org/wiki/Building_performance_simulation
 
+https://www.enerj-meeting.com/conference/workshops-pitchs
+
 ## home automation / domotique
 
 http://sarakha63-domotique.fr/jeedom-domotiser-une-vanne-3-voies/
