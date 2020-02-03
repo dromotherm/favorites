@@ -23,6 +23,8 @@ http://cs231n.github.io/python-numpy-tutorial/
 
 # Practical guides
 
+https://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
+
 https://adventuresinmachinelearning.com/python-tensorflow-tutorial/
 
 https://adventuresinmachinelearning.com/neural-networks-tutorial/
