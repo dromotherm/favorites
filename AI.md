@@ -9,6 +9,8 @@ https://en.wikipedia.org/wiki/Sigmoid_function
 
 https://fr.wikipedia.org/wiki/Q-learning
 
+https://adventuresinmachinelearning.com/neural-networks-tutorial
+
 https://keras.io/optimizers/
 
 https://keras.io/getting-started/sequential-model-guide/
@@ -26,8 +28,6 @@ http://cs231n.github.io/python-numpy-tutorial/
 https://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 
 https://adventuresinmachinelearning.com/python-tensorflow-tutorial/
-
-https://adventuresinmachinelearning.com/neural-networks-tutorial/
 
 https://adventuresinmachinelearning.com/reinforcement-learning-tensorflow/
 
