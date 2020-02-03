@@ -1,11 +1,13 @@
 
+# Social
+
 https://hackernoon.com/
+
+# Docs
 
 https://en.wikipedia.org/wiki/Sigmoid_function
 
 https://fr.wikipedia.org/wiki/Q-learning
-
-# docs
 
 https://keras.io/optimizers/
 
@@ -15,11 +17,11 @@ https://keras.io/getting-started/sequential-model-guide/
 
 https://www.tensorflow.org/guide/migrate
 
-# data formatting
+# Data formatting
 
 http://cs231n.github.io/python-numpy-tutorial/
 
-# practical guides
+# Practical guides
 
 https://adventuresinmachinelearning.com/python-tensorflow-tutorial/
 
@@ -27,7 +29,9 @@ https://adventuresinmachinelearning.com/neural-networks-tutorial/
 
 https://adventuresinmachinelearning.com/reinforcement-learning-tensorflow/
 
-# synthetic approaches
+https://adventuresinmachinelearning.com/reinforcement-learning-tutorial-python-keras/
+
+# Synthetic approaches
 
 http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/fr_Tanagra_Packages_Python_for_Deep_Learning.pdf
 
