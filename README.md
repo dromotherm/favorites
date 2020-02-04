@@ -78,7 +78,7 @@ https://www.l-expert-comptable.com/calculateurs/simulateur-d-embauche-combien-co
 
 https://www.bpifrance.fr/A-la-une/Dossiers/Comprendre-l-offre/L-offre-Bpifrance-pour-qui-pour-quoi-17487
 
-
+https://www.frenchweb.fr/6-etapes-pour-creer-son-entreprise-la-folle-recommandation-de-bpifrance/391379
 
 ## incubation
 
