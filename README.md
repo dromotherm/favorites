@@ -80,6 +80,10 @@ https://www.bpifrance.fr/A-la-une/Dossiers/Comprendre-l-offre/L-offre-Bpifrance-
 
 https://www.frenchweb.fr/6-etapes-pour-creer-son-entreprise-la-folle-recommandation-de-bpifrance/391379
 
+from an ex google
+
+https://github.com/dennybritz/booknotes/blob/master/how-google-works.md
+
 ## incubation
 
 https://www.ycombinator.com/video/
