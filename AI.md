@@ -41,6 +41,14 @@ https://blog.tensorflow.org/2018/07/deep-reinforcement-learning-keras-eager-exec
 
 https://github.com/dennybritz/reinforcement-learning
 
+# datasets for reinforcement
+
+https://gym.openai.com/docs/
+
+https://github.com/openai/gym/wiki/Leaderboard
+
+https://github.com/openai/gym
+
 # Synthetic approaches
 
 http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/fr_Tanagra_Packages_Python_for_Deep_Learning.pdf
