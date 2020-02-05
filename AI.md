@@ -39,6 +39,8 @@ https://adventuresinmachinelearning.com/reinforcement-learning-tutorial-python-k
 
 https://blog.tensorflow.org/2018/07/deep-reinforcement-learning-keras-eager-execution.html?m=1
 
+https://github.com/dennybritz/reinforcement-learning
+
 # Synthetic approaches
 
 http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/fr_Tanagra_Packages_Python_for_Deep_Learning.pdf
