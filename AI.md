@@ -15,6 +15,8 @@ https://keras.io/optimizers/
 
 https://keras.io/getting-started/sequential-model-guide/
 
+https://www.tensorflow.org/guide/keras/overview
+
 # Migrate from tf1 to tf2
 
 https://www.tensorflow.org/guide/migrate
