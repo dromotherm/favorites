@@ -60,3 +60,15 @@ http://www.morrisriedel.de/wp-content/uploads/2018/04/2018-04-19-Deep-Learning-w
 # insiste tensorflow
 
 https://www.tensorflow.org/guide/keras
+
+# modelica
+
+## installation
+
+https://www.openmodelica.org/download/download-linux
+
+https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/
+
+## IDEAS building library
+
+https://github.com/open-ideas/IDEAS
