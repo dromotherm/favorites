@@ -5,6 +5,9 @@ https://hackernoon.com/
 
 # Docs
 
+
+https://intelligence-artificielle.agency/lexique/
+
 https://en.wikipedia.org/wiki/Sigmoid_function
 
 https://fr.wikipedia.org/wiki/Q-learning
