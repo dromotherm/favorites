@@ -1,6 +1,10 @@
 # favorites
 my personal favorites
 
+## seo
+
+https://www.maddyness.com/2020/02/05/bible-referencement-google-seo-startup/
+
 ## software
 
 Free software : Sarkozy vs Hollande
