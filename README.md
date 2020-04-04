@@ -100,10 +100,16 @@ http://paulgraham.com/articles.html
 
 https://serialmentor.com/dataviz/
 
-## météo
+## open data
+
+http://dridk.me/python-requests.html
+
+### météo
 
 https://github.com/meteofrance
 
 https://meteofrance.github.io/meteonet/data/summary/
 
 https://data.opendatasoft.com/pages/home/
+
+
