@@ -99,3 +99,11 @@ http://paulgraham.com/articles.html
 ## data & aesthetics
 
 https://serialmentor.com/dataviz/
+
+## météo
+
+https://github.com/meteofrance
+
+https://meteofrance.github.io/meteonet/data/summary/
+
+https://data.opendatasoft.com/pages/home/
