@@ -31,6 +31,18 @@ https://en.wikipedia.org/wiki/Stochastic_differential_equation
 
 https://fr.wikipedia.org/wiki/Cha%C3%AEne_de_Markov#Exemple_:_Doudou_le_hamster
 
+# modelica
+
+## installation
+
+https://www.openmodelica.org/download/download-linux
+
+https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/
+
+## IDEAS building library
+
+https://github.com/open-ideas/IDEAS
+
 # miscellaneous
 
 https://en.wikipedia.org/wiki/Cross-correlation
