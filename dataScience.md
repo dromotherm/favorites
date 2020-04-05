@@ -5,9 +5,11 @@ http://cs231n.github.io/python-numpy-tutorial/
 
 https://stackoverflow.com/questions/37697747/typeerror-tensor-object-does-not-support-item-assignment-in-tensorflow
 
-# matplotlib 2D 3D
+# matplotlib 2D 3D - vizualisations
 
 http://hebergement.u-psud.fr/mpo-informatique/matplotlib_notice_magistere.pdf
+
+https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html
 
 # Optimization, Gradient, adjoint state method
 
