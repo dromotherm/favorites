@@ -24,4 +24,6 @@ https://en.wikipedia.org/wiki/Stochastic_differential_equation
 
 https://fr.wikipedia.org/wiki/Cha%C3%AEne_de_Markov#Exemple_:_Doudou_le_hamster
 
+# miscellaneous
+
 https://en.wikipedia.org/wiki/Cross-correlation
