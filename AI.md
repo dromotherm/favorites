@@ -57,3 +57,13 @@ http://www.morrisriedel.de/wp-content/uploads/2018/04/2018-04-19-Deep-Learning-w
 # insiste tensorflow
 
 https://www.tensorflow.org/guide/keras
+
+# deeplearning.ai and al
+
+https://github.com/bhunkeler/DataScienceCoursera/blob/master/Machine_Learning%20-%20Stanford%20University/Lectures/007_Regularization/010_Documentation/7.%20Regularization.pdf
+
+https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/Programming-Assignments/Regularization/
+
+https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week2/02-vectorization.ipynb
+
+https://github.com/enggen/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb
