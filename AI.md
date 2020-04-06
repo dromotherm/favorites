@@ -67,6 +67,8 @@ https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/
 
 https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week2/02-vectorization.ipynb
 
+https://github.com/Bennyhwanggggg/Coursera-Deep-Learning-Specialisation/tree/master/Improving_Deep_Neural_Networks-Hyperparameter_tuning_Regularization_and_Optimization#dropout-regularization
+
 https://github.com/enggen/Deep-Learning-Coursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb
 
 https://github.com/ageron/handson-ml
