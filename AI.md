@@ -72,7 +72,7 @@ with cleaned readme.md notes
 
 https://github.com/Bennyhwanggggg/Coursera-Deep-Learning-Specialisation/tree/master/Improving_Deep_Neural_Networks-Hyperparameter_tuning_Regularization_and_Optimization#dropout-regularization
 
-this is the raw material from the coruse I think
+this is the raw material from the course I think
 
 https://github.com/raymondlam19/Deep-Learning-Specialization/tree/master/2.%20Improving%20Deep%20Neural%20Networks-%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization
 
