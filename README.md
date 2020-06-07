@@ -88,6 +88,10 @@ from an ex google
 
 https://github.com/dennybritz/booknotes/blob/master/how-google-works.md
 
+example de startup similaire à ce qu'on veut faire
+
+https://www.optimistik.fr/
+
 ## incubation
 
 https://www.ycombinator.com/video/
