@@ -54,6 +54,21 @@ https://en.wikipedia.org/wiki/Building_performance_simulation
 
 https://www.enerj-meeting.com/conference/workshops-pitchs
 
+
+### Les dix recommandations de la SBA
+- développer la culture digitale de l’ensemble des acteurs (plus d’appels d’offres numériques), 
+- définir et partager un schéma directeur numérique à tous les échelons du territoire (organisations et systèmes d’information, des investissements en infrastructure, services et contrats et de la gouvernance des données). 
+- s’appuyer sur des écosystèmes de partenaires alignés sur la vision du territoire proposant des solutions ouvertes basées sur des référentiels communs ; 
+- doter les infrastructures d’un jumeau numérique dès la programmation d’un projet ; 
+- garantir l’accessibilité et la gouvernance des données ; 
+- connecter les infrastructures, bâtiments et équipements pour faciliter la circulation et le partage des données. 
+- mutualiser les infrastructures et les équipements dès que possible pour stimuler une politique vertueuse, 
+- exiger des solutions disposant d’interfaces standardisées, interopérables et ouvertes ; 
+- mettre en place un opérateur de services de confiance et garant de la continuité de services. 
+- Et enfin favoriser des solutions numériques sobres en énergie et en ressources.
+
+https://www.cahiers-techniques-batiment.fr/article/dix-recommandations-pour-une-ville-smart-et-green.45611
+
 ## home automation / domotique
 
 http://sarakha63-domotique.fr/jeedom-domotiser-une-vanne-3-voies/
