@@ -1,3 +1,5 @@
+https://www.cafedelabourse.com/archive/article/comment-investir-biotechs
+
     Cellectis (643 M €)
     Genfit (564 M €)
     Innate Pharma (537 M €)
