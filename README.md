@@ -36,8 +36,16 @@ https://arstechnica.com/information-technology/2019/10/is-the-software-world-tak
 
 ## energy
 
-
 https://netset.csaladen.es
+
+![](images/energy.png)
+source are on https://github.com/csaladenes/netset
+use of the [d3plus](https://d3plus.org/) js library cf https://github.com/alexandersimoes/d3plus and cf https://github.com/d3/d3
+
+sankey diagram
+
+https://sankey.csaladen.es/
+
 
 https://frankdiana.net/2014/07/15/the-energy-internet/
 
