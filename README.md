@@ -36,6 +36,9 @@ https://arstechnica.com/information-technology/2019/10/is-the-software-world-tak
 
 ## energy
 
+
+https://netset.csaladen.es
+
 https://frankdiana.net/2014/07/15/the-energy-internet/
 
 https://www.numerama.com/tech/573675-ces-panneaux-solaires-atteignent-une-chaleur-record-un-bond-dans-le-futur-pour-lindustrie.html
