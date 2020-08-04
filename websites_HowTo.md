@@ -43,3 +43,5 @@ https://gohugo.io/showcase/arolla-cocoon/
 https://themes.gohugo.io/airspace-hugo/
 
 https://themes.gohugo.io/educenter-hugo/
+
+https://themes.gohugo.io/hugo-hero-theme/
