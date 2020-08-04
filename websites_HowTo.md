@@ -39,3 +39,5 @@ https://github.com/gohugoio/hugo
 https://github.com/marketplace/actions/hugo-to-gh-pages
 
 https://gohugo.io/showcase/arolla-cocoon/
+
+https://themes.gohugo.io/airspace-hugo/
