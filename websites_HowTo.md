@@ -34,4 +34,7 @@ https://www.mindinventory.com/blog/top-web-frameworks-for-development-golang/
 
 https://github.com/paulbellamy/mango
 
+https://github.com/gohugoio/hugo
+
+https://github.com/marketplace/actions/hugo-to-gh-pages
 
