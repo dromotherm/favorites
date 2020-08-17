@@ -17,4 +17,5 @@ https://www.bogotobogo.com/python/
 https://www.bogotobogo.com
 
 Utiliser "".format()
+
 https://docs.python.org/fr/3.5/library/string.html
