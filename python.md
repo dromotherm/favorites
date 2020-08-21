@@ -24,6 +24,8 @@ https://docs.python.org/fr/3.5/library/string.html
 
 # Créer une classe fille de numpy
 
+Subclassing ndarray
+
 https://numpy.org/devdocs/user/basics.subclassing.html
 
 https://stackoverflow.com/questions/51520630/subclassing-numpy-array-propagate-attributes
