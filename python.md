@@ -26,6 +26,8 @@ https://docs.python.org/fr/3.5/library/string.html
 
 https://numpy.org/devdocs/user/basics.subclassing.html
 
+https://stackoverflow.com/questions/51520630/subclassing-numpy-array-propagate-attributes
+
 # surcharge des opérateurs 
 
 https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/233046-appliquez-des-methodes-speciales
