@@ -29,3 +29,8 @@ https://numpy.org/devdocs/user/basics.subclassing.html
 # surcharge des opérateurs 
 
 https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/233046-appliquez-des-methodes-speciales
+
+# pickle
+
+https://www.python.org/dev/peps/pep-0307/
+
