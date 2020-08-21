@@ -1,4 +1,8 @@
+# threading
+
 https://docs.python.org/fr/3/library/signal.html
+
+https://realpython.com/intro-to-python-threading/
 
 https://docs.python.org/3/library/threading.html
 
