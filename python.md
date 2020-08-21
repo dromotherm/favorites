@@ -18,8 +18,14 @@ https://www.bogotobogo.com/python/
 
 https://www.bogotobogo.com
 
-Utiliser "".format()
+# Utiliser "".format()
 
 https://docs.python.org/fr/3.5/library/string.html
 
+# Créer une classe fille de numpy
+
 https://numpy.org/devdocs/user/basics.subclassing.html
+
+# surcharge des opérateurs 
+
+https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/233046-appliquez-des-methodes-speciales
