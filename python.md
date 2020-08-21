@@ -25,6 +25,7 @@ https://docs.python.org/fr/3.5/library/string.html
 # Créer une classe fille de numpy
 
 Héritage : https://www.supinfo.com/cours/2OOP/chapitres/03-heritage
+
 Subclassing ndarray
 
 https://numpy.org/devdocs/user/basics.subclassing.html
