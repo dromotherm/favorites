@@ -46,6 +46,8 @@ https://docs.python.org/fr/3.5/library/string.html
 
 Héritage : https://www.supinfo.com/cours/2OOP/chapitres/03-heritage
 
+https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/233164-gerez-les-heritages
+
 Subclassing ndarray
 
 https://numpy.org/devdocs/user/basics.subclassing.html
