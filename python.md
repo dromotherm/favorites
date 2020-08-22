@@ -70,3 +70,13 @@ https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232
 
 https://docs.python.org/fr/3/library/pprint.html
 
+# import
+
+https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html
+
+https://www.python.org/dev/peps/pep-0008/#imports
+
+https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder
+
+
+
