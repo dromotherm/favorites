@@ -45,3 +45,8 @@ https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/233
 https://www.python.org/dev/peps/pep-0307/
 
 https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232431-utilisez-des-fichiers
+
+# affichage de données 
+
+https://docs.python.org/fr/3/library/pprint.html
+
