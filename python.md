@@ -14,6 +14,8 @@ https://docs.python.org/fr/3/library/queue.html
 
 # multiprocessing
 
+https://docs.python.org/fr/3.8/library/multiprocessing.html
+
 https://github.com/locie/locie_notebook/blob/master/base_python/multiprocessing.ipynb
 
 # les arguments de la ligne de commande
