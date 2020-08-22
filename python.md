@@ -10,9 +10,17 @@ https://docs.python.org/3/library/threading.html
 
 https://docs.python.org/fr/3/library/threading.html
 
+https://docs.python.org/fr/3/library/queue.html
+
+# multiprocessing
+
 https://github.com/locie/locie_notebook/blob/master/base_python/multiprocessing.ipynb
 
+# les arguments de la ligne de commande
+
 https://docs.python.org/fr/3/howto/argparse.html
+
+# logging
 
 https://docs.python.org/fr/3/howto/logging.html
 
