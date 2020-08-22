@@ -81,3 +81,7 @@ https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder
 # getattr
 
 https://python.developpez.com/cours/DiveIntoPython/php/frdiveintopython/power_of_introspection/getattr.php
+
+# try et except
+
+https://docs.python.org/fr/3.8/library/exceptions.html
