@@ -48,6 +48,8 @@ Héritage : https://www.supinfo.com/cours/2OOP/chapitres/03-heritage
 
 https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/233164-gerez-les-heritages
 
+https://he-arc.github.io/livre-python/super/index.html
+
 Subclassing ndarray
 
 https://numpy.org/devdocs/user/basics.subclassing.html
