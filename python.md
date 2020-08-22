@@ -1,5 +1,7 @@
 # threading
 
+https://christopherdavis.me/blog/threading-basics.html
+
 https://docs.python.org/fr/3/library/signal.html
 
 https://realpython.com/intro-to-python-threading/
@@ -17,6 +19,10 @@ https://docs.python.org/fr/3/howto/logging.html
 https://docs.python.org/3/library/logging.html
 
 https://docs.python.org/3/howto/logging-cookbook.html#formatting-styles
+
+# calculatoire....
+
+https://riptutorial.com/fr/python/example/2470/decalage-bit-a-gauche
 
 https://www.bogotobogo.com/python/
 
