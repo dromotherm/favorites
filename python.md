@@ -78,5 +78,6 @@ https://www.python.org/dev/peps/pep-0008/#imports
 
 https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder
 
+# getattr
 
-
+https://python.developpez.com/cours/DiveIntoPython/php/frdiveintopython/power_of_introspection/getattr.php
