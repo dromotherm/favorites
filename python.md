@@ -40,7 +40,8 @@ https://stackoverflow.com/questions/51520630/subclassing-numpy-array-propagate-a
 
 https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/233046-appliquez-des-methodes-speciales
 
-# pickle
+# pickle et opérations sur les fichiers
 
 https://www.python.org/dev/peps/pep-0307/
 
+https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/232431-utilisez-des-fichiers
