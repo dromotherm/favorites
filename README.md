@@ -142,4 +142,6 @@ https://meteofrance.github.io/meteonet/data/summary/
 
 https://data.opendatasoft.com/pages/home/
 
+https://www.meteo-lyon.net/france/sites-meteo.html
+
 
