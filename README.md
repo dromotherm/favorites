@@ -5,6 +5,8 @@ my personal favorites
 
 https://www.maddyness.com/2020/02/05/bible-referencement-google-seo-startup/
 
+google search console
+
 ## software
 
 Free software : Sarkozy vs Hollande
