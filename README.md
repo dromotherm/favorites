@@ -146,4 +146,6 @@ https://data.opendatasoft.com/pages/home/
 
 https://www.meteo-lyon.net/france/sites-meteo.html
 
+https://data.opendatasoft.com/explore/dataset/arpege-05-sp1_sp2%40public/table/
 
+https://data.opendatasoft.com/explore/dataset/arome-0025-sp1_sp2%40public/table/
