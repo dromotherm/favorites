@@ -146,6 +146,10 @@ https://data.opendatasoft.com/pages/home/
 
 https://www.meteo-lyon.net/france/sites-meteo.html
 
+#### modèles météofrance
+
+EN savoir plus sur le modèle le plus récent : http://www.meteofrance.fr/prevoir-le-temps/la-prevision-du-temps/le-modele-a-maille-fine-arome
+
 https://data.opendatasoft.com/explore/dataset/arpege-05-sp1_sp2%40public/table/
 
 https://data.opendatasoft.com/explore/dataset/arome-0025-sp1_sp2%40public/table/
