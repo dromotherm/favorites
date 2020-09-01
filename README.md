@@ -148,7 +148,9 @@ https://www.meteo-lyon.net/france/sites-meteo.html
 
 #### modèles météofrance
 
-EN savoir plus sur le modèle le plus récent : http://www.meteofrance.fr/prevoir-le-temps/la-prevision-du-temps/le-modele-a-maille-fine-arome
+EN SAVOIR PLUS SUR le modèle le plus récent : http://www.meteofrance.fr/prevoir-le-temps/la-prevision-du-temps/le-modele-a-maille-fine-arome
+
+https://www.meteociel.fr/modeles/arome.php
 
 https://data.opendatasoft.com/explore/dataset/arpege-05-sp1_sp2%40public/table/
 
