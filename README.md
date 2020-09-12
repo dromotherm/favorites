@@ -140,7 +140,7 @@ http://dridk.me/python-requests.html
 
 https://github.com/meteofrance
 
-https://meteofrance.github.io/meteonet/data/summary/
+https://meteofrance.github.io/meteonet/
 
 https://data.opendatasoft.com/pages/home/
 
