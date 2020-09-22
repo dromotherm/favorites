@@ -38,6 +38,8 @@ https://arstechnica.com/information-technology/2019/10/is-the-software-world-tak
 
 ## energy
 
+JANCOVICI : https://www.youtube.com/watch?v=Vjkq8V5rVy0
+
 https://netset.csaladen.es
 
 ![](images/energy.png)
