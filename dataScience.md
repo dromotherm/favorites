@@ -5,6 +5,12 @@ http://cs231n.github.io/python-numpy-tutorial/
 
 https://stackoverflow.com/questions/37697747/typeerror-tensor-object-does-not-support-item-assignment-in-tensorflow
 
+Mermaid is a Javascript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. The main purpose of Mermaid is to help documentation catch up with development.
+
+https://github.com/mermaid-js/mermaid
+
+https://mermaid-js.github.io/mermaid/
+
 # matplotlib 2D 3D - vizualisations
 
 http://hebergement.u-psud.fr/mpo-informatique/matplotlib_notice_magistere.pdf
