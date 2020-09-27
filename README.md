@@ -19,7 +19,11 @@ https://github.com/phpredis/phpredis
 
 https://github.com/andymccurdy/redis-py
 
+msgpack
+
 https://msgpack.org/
+
+https://github.com/lebedov/msgpack-numpy
 
 Nvidia acquired ARM 
 
