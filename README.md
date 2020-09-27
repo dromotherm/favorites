@@ -19,6 +19,8 @@ https://github.com/phpredis/phpredis
 
 https://github.com/andymccurdy/redis-py
 
+https://msgpack.org/
+
 Nvidia acquired ARM 
 
 https://stackoverflow.blog/2020/09/21/nvidia-has-acquired-arm-what-does-this-mean-for-the-future-of-ai-edge-computing-and-the-people-who-write-software-for-these-chips/?cb=1
