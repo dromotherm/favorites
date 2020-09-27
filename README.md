@@ -9,6 +9,14 @@ google search console
 
 ## software
 
+Redis 
+
+https://redislabs.com/blog/thank-you-salvatore-sanfilippo/
+
+https://redis.io/topics/governance
+
+https://redislabs.com/blog/thank-you-salvatore-sanfilippo/
+
 Nvidia acquired ARM 
 
 https://stackoverflow.blog/2020/09/21/nvidia-has-acquired-arm-what-does-this-mean-for-the-future-of-ai-edge-computing-and-the-people-who-write-software-for-these-chips/?cb=1
