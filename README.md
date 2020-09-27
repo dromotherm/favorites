@@ -9,6 +9,10 @@ google search console
 
 ## software
 
+Nvidia acquired ARM 
+
+https://stackoverflow.blog/2020/09/21/nvidia-has-acquired-arm-what-does-this-mean-for-the-future-of-ai-edge-computing-and-the-people-who-write-software-for-these-chips/?cb=1
+
 Free software : Sarkozy vs Hollande
 
 https://cnll.fr/static/pdf/cp-positions-floss-ump-ps-3d.pdf
