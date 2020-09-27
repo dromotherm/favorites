@@ -15,7 +15,9 @@ https://redislabs.com/blog/thank-you-salvatore-sanfilippo/
 
 https://redis.io/topics/governance
 
-https://redislabs.com/blog/thank-you-salvatore-sanfilippo/
+https://github.com/phpredis/phpredis
+
+https://github.com/andymccurdy/redis-py
 
 Nvidia acquired ARM 
 
