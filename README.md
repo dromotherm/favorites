@@ -17,7 +17,7 @@ https://redis.io/topics/governance
 
 https://github.com/phpredis/phpredis
 
-https://github.com/andymccurdy/redis-py
+https://github.com/andymccurdy/redis-py and https://realpython.com/python-redis/
 
 msgpack
 
