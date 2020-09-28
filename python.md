@@ -1,3 +1,5 @@
+https://martinberoiz.org/2019/03/10/how-to-write-systemd-daemons-using-python/
+
 # threading
 
 https://christopherdavis.me/blog/threading-basics.html
