@@ -10,6 +10,7 @@ google search console
 ## software
 
 Redis 
+About streams : https://m.youtube.com/watch?v=qXEyuUxQXZM
 
 https://redislabs.com/blog/thank-you-salvatore-sanfilippo/
 
