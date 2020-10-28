@@ -1,3 +1,7 @@
+A lot is on the psf (python software foundation) github :
+
+https://github.com/psf
+
 https://martinberoiz.org/2019/03/10/how-to-write-systemd-daemons-using-python/
 
 # threading
