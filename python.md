@@ -4,6 +4,12 @@ https://github.com/psf
 
 https://martinberoiz.org/2019/03/10/how-to-write-systemd-daemons-using-python/
 
+Check :
+
+http://blog.stigok.com
+
+https://github.com/stigok/sd-notify
+
 # threading
 
 https://christopherdavis.me/blog/threading-basics.html
