@@ -125,7 +125,7 @@ http://ragworm.eu
 
 ## start your company 
 
-( https://feross.org/ )
+( NODE JS entrepreneur like : https://feross.org/ )
 
 https://www.compta-facile.com/choisir-duree-amortissement-immobilisations/
 
