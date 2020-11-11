@@ -23,3 +23,5 @@ https://th-industrie.com/debitmetres-portables/258-debitmetre-ultrason-portable.
 https://www.ultraflux.net/
 
 https://www.fujielectric.fr/produit/debitmetre-portable-ultrasons-fsc
+
+http://www.prisma-instruments.com/instruments-de-mesure-et-regulation/instruments-de-debit/debitmetres-a-ultrasons/debitmetre-a-ultrasons-de-poche-new
