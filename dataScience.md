@@ -11,6 +11,10 @@ https://github.com/mermaid-js/mermaid
 
 https://mermaid-js.github.io/mermaid/
 
+numpy, les moindres carrés et la régression linéaire :
+
+https://gsalvatovallverdu.gitlab.io/python/moindres-carres/
+
 # matplotlib 2D 3D - vizualisations
 
 http://hebergement.u-psud.fr/mpo-informatique/matplotlib_notice_magistere.pdf
