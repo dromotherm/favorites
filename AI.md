@@ -70,6 +70,9 @@ https://blog.engineering.publicissapient.fr/?s=reinforcement
 
 # deeplearning.ai and al
 
+TD lambda
+https://amreis.github.io/ml/reinf-learn/2017/11/02/reinforcement-learning-eligibility-traces.html
+
 http://www.isir.upmc.fr/files/pdmia_chapAR_sigaud_garcia08.pdf
 
 a pdf draft a scribed notes during the course
