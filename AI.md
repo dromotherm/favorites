@@ -58,13 +58,23 @@ http://www.morrisriedel.de/wp-content/uploads/2018/04/2018-04-19-Deep-Learning-w
 
 https://www.tensorflow.org/guide/keras
 
+# articles on reinforcement
+
+https://www.alexirpan.com/2018/02/14/rl-hard.html
+
+https://teahouse.fifty-five.com/fr/petit-guide-du-machine-learning-partie-4-lapprentissage-par-renforcement/
+
+https://blog.engineering.publicissapient.fr/2020/02/28/reinforcement-learning-partie-2-one-step-deeper/
+
+https://blog.engineering.publicissapient.fr/?s=reinforcement
+
 # deeplearning.ai and al
+
+http://www.isir.upmc.fr/files/pdmia_chapAR_sigaud_garcia08.pdf
 
 a pdf draft a scribed notes during the course
 
 https://github.com/bhunkeler/DataScienceCoursera/blob/master/Machine_Learning%20-%20Stanford%20University/Lectures/007_Regularization/010_Documentation/7.%20Regularization.pdf
-
-https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/02-Improving-Deep-Neural-Networks/week1/Programming-Assignments/Regularization/
 
 https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week2/02-vectorization.ipynb
 
