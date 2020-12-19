@@ -92,6 +92,13 @@ https://en.wikipedia.org/wiki/Building_performance_simulation
 
 https://www.enerj-meeting.com/conference/workshops-pitchs
 
+### chauffage
+
+https://energieplus-lesite.be/techniques/chauffage10/chauffage-a-eau-chaude/regulation-des-chaudieres/
+
+## home automation / domotique
+
+http://sarakha63-domotique.fr/jeedom-domotiser-une-vanne-3-voies/
 
 ### Les dix recommandations de la SBA
 - développer la culture digitale de l’ensemble des acteurs (plus d’appels d’offres numériques), 
@@ -106,10 +113,6 @@ https://www.enerj-meeting.com/conference/workshops-pitchs
 - Et enfin favoriser des solutions numériques sobres en énergie et en ressources.
 
 https://www.cahiers-techniques-batiment.fr/article/dix-recommandations-pour-une-ville-smart-et-green.45611
-
-## home automation / domotique
-
-http://sarakha63-domotique.fr/jeedom-domotiser-une-vanne-3-voies/
 
 ## embedded systems with linux
 
