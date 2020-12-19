@@ -92,6 +92,8 @@ https://en.wikipedia.org/wiki/Building_performance_simulation
 
 https://www.enerj-meeting.com/conference/workshops-pitchs
 
+CitySIm : www.kaemco.ch/download.php
+
 ### chauffage
 
 https://energieplus-lesite.be/techniques/chauffage10/chauffage-a-eau-chaude/regulation-des-chaudieres/
