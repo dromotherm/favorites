@@ -14,6 +14,10 @@ https://fr.wikipedia.org/wiki/Q-learning
 
 https://adventuresinmachinelearning.com/neural-networks-tutorial
 
+# keras
+
+https://keras.io/api/layers/initializers/
+
 https://keras.io/optimizers/
 
 https://keras.io/getting-started/sequential-model-guide/
