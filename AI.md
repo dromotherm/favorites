@@ -16,6 +16,8 @@ https://adventuresinmachinelearning.com/neural-networks-tutorial
 
 # keras
 
+https://lesdieuxducode.com/blog/2019/1/prototyper-un-reseau-de-neurones-avec-keras
+
 https://keras.io/api/layers/initializers/
 
 https://keras.io/optimizers/
