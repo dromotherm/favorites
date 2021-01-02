@@ -98,6 +98,10 @@ CitySIm : www.kaemco.ch/download.php
 
 https://energieplus-lesite.be/techniques/chauffage10/chauffage-a-eau-chaude/regulation-des-chaudieres/
 
+http://ebeclim.org/CVC_prodistrib.html
+
+https://github.com/srouchier/buildingenergygeeks
+
 ## home automation / domotique
 
 http://sarakha63-domotique.fr/jeedom-domotiser-une-vanne-3-voies/
