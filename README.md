@@ -156,6 +156,10 @@ https://training.kalzumeus.com/newsletters/archive/validating_product_ideas
 
 https://github.com/dennybritz/startupreadings
 
+drom the creator of dropbox
+
+https://www.ycombinator.com/apply/dropbox
+
 
 ## examples de startups/sociétés similaire à ce qu'on veut faire
 
