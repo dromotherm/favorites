@@ -152,6 +152,11 @@ from an ex google
 
 https://github.com/dennybritz/booknotes/blob/master/how-google-works.md
 
+https://training.kalzumeus.com/newsletters/archive/validating_product_ideas
+
+https://github.com/dennybritz/startupreadings
+
+
 ## examples de startups/sociétés similaire à ce qu'on veut faire
 
 https://www.optimistik.fr/
