@@ -26,6 +26,8 @@ https://stackoverflow.com/questions/23356472/how-to-be-more-efficient-using-redi
 
 https://github.com/andymccurdy/redis-py/blob/master/redis/connection.py
 
+https://github.com/andymccurdy/redis-py/issues/906
+
 ### msgpack
 
 https://msgpack.org/
