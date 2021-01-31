@@ -9,7 +9,7 @@ google search console
 
 ## software
 
-Redis 
+### Redis 
 About streams : https://m.youtube.com/watch?v=qXEyuUxQXZM
 
 https://redislabs.com/blog/thank-you-salvatore-sanfilippo/
@@ -20,17 +20,25 @@ https://github.com/phpredis/phpredis
 
 https://github.com/andymccurdy/redis-py and https://realpython.com/python-redis/
 
-msgpack
+Redis and multithread
+
+https://stackoverflow.com/questions/23356472/how-to-be-more-efficient-using-redis-py-in-multithreading-program
+
+https://github.com/andymccurdy/redis-py/blob/master/redis/connection.py
+
+### msgpack
 
 https://msgpack.org/
 
 https://github.com/lebedov/msgpack-numpy
 
-Nvidia acquired ARM 
+### Nvidia acquired ARM 
 
 https://stackoverflow.blog/2020/09/21/nvidia-has-acquired-arm-what-does-this-mean-for-the-future-of-ai-edge-computing-and-the-people-who-write-software-for-these-chips/?cb=1
 
-Free software : Sarkozy vs Hollande
+### Free software 
+
+Sarkozy vs Hollande
 
 https://cnll.fr/static/pdf/cp-positions-floss-ump-ps-3d.pdf
 
