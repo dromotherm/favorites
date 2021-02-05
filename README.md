@@ -116,6 +116,10 @@ https://github.com/srouchier/buildingenergygeeks
 
 http://sarakha63-domotique.fr/jeedom-domotiser-une-vanne-3-voies/
 
+https://www.home-assistant.io/
+
+https://github.com/home-assistant/core
+
 ### Les dix recommandations de la SBA
 - développer la culture digitale de l’ensemble des acteurs (plus d’appels d’offres numériques), 
 - définir et partager un schéma directeur numérique à tous les échelons du territoire (organisations et systèmes d’information, des investissements en infrastructure, services et contrats et de la gouvernance des données). 
