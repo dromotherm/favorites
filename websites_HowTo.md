@@ -4,6 +4,10 @@ https://github.com/maintainers
 
 https://jekyllrb.com/
 
+https://github.com/arkadianriver/spectral
+
+https://github.com/arkadianriver/arkadianriver.com
+
 # python
 
 https://blog.getpelican.com/category/news.html
