@@ -24,6 +24,8 @@ https://docs.python.org/fr/3/library/threading.html
 
 https://docs.python.org/fr/3/library/queue.html
 
+https://www.geeksforgeeks.org/python-communicating-between-threads-set-1/
+
 # multiprocessing
 
 https://docs.python.org/fr/3.8/library/multiprocessing.html
