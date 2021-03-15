@@ -90,6 +90,12 @@ https://www.batirama.com/amp/article/27784-les-pompes-a-chaleur-nouvelle-generat
 
 http://www.acr-regulation.com/
 
+### solar
+
+https://fr.goodwe.com
+
+https://suministrosdelsol.com/en/inversores-hibridos-monofasicos/580-hybrid-inverter-goodwe-gw5048-em.html
+
 ## buildings
 
 https://www.smartbuildingsalliance.org/le-building-operation-system-incontrounable-du-smart-building
