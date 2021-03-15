@@ -90,6 +90,13 @@ https://www.batirama.com/amp/article/27784-les-pompes-a-chaleur-nouvelle-generat
 
 http://www.acr-regulation.com/
 
+### smartgrids
+
+smartgrid de génération 5
+https://5gdhc.eu/
+
+
+
 ### solar
 
 https://fr.goodwe.com
