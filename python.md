@@ -58,6 +58,10 @@ https://www.bogotobogo.com
 
 https://docs.python.org/fr/3.5/library/string.html
 
+# numpy array vs list
+
+https://medium.com/@gough.cory/performance-of-numpy-array-vs-python-list-194c8e283b65
+
 # Créer une classe fille de numpy
 
 Héritage : https://www.supinfo.com/cours/2OOP/chapitres/03-heritage
