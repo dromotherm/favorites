@@ -107,6 +107,8 @@ https://suministrosdelsol.com/en/inversores-hibridos-monofasicos/580-hybrid-inve
 
 https://www.smartbuildingsalliance.org/le-building-operation-system-incontrounable-du-smart-building
 
+https://www.smartbuildingsalliance.org/category-blog-smart-building-intelligence-artificielle-cas-d-usages-smart-building
+
 https://www.batiactu.com/edito/katerra-start-up-americaine-qui-uberise-batiment-57920.php
 
 https://www.batiactu.com/edito/donner-sens-a-donnee-performance-energetique-pertinente-57930.php?MD5email=7990f9ffd110522d9783a851b99cabe5&utm_source=news_actu&utm_medium=edito&utm_content=article
