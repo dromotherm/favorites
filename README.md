@@ -71,6 +71,8 @@ https://arstechnica.com/information-technology/2019/10/is-the-software-world-tak
 
 JANCOVICI : https://www.youtube.com/watch?v=Vjkq8V5rVy0
 
+http://www.opex-project-management.com/
+
 https://netset.csaladen.es
 
 ![](images/energy.png)
