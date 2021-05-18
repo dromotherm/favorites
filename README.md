@@ -131,6 +131,8 @@ https://github.com/srouchier/buildingenergygeeks
 
 ## home automation / domotique
 
+http://www.davidhunt.ie/diy-smart-home-heating-control-system/
+
 http://sarakha63-domotique.fr/jeedom-domotiser-une-vanne-3-voies/
 
 https://www.home-assistant.io/
