@@ -69,6 +69,8 @@ https://arstechnica.com/information-technology/2019/10/is-the-software-world-tak
 
 ## energy
 
+https://www.plancher-chauffant-caleosol.fr/geothermie/ballon-ecs-pour-pompe-a-chaleur-geothermique
+
 JANCOVICI : https://www.youtube.com/watch?v=Vjkq8V5rVy0
 
 http://www.opex-project-management.com/
