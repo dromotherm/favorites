@@ -195,6 +195,12 @@ from the creator of dropbox
 
 https://www.ycombinator.com/apply/dropbox
 
+## capital risque 
+
+https://www.sofimac-im.com/chiffres-cles/
+
+https://capitalfinance.lesechos.fr/fonds/actus-des-fonds-vehicules/sofimac-im-sapprete-a-rejoindre-ui-investissement-1258094
+
 
 ## examples de startups/sociétés similaire à ce qu'on veut faire
 
