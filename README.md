@@ -155,6 +155,10 @@ https://github.com/home-assistant/core
 
 https://www.cahiers-techniques-batiment.fr/article/dix-recommandations-pour-une-ville-smart-et-green.45611
 
+https://www.distech-controls.com/
+
+https://new.abb.com/low-voltage/fr/produits/home-and-building-automation/gamme-produits/newron-solution/serveur-dautomation-dogate
+
 ## embedded systems with linux
 
 https://www.thirtythreeforty.net/posts/2019/08/mastering-embedded-linux-part-1-concepts/
