@@ -17,3 +17,9 @@ https://www.amazon.fr/Waveshare-Jetson-Xavier-Developer-Kit/dp/B0892DZQXK/ref=sr
 https://www.amazon.fr/s?k=jetson+xavier&adgrpid=78164062938&gclid=CjwKCAiA_9r_BRBZEiwAHZ_v14-1XtARjQ8o5HZeObzwYr3YWONxZeS0_YASsBvR6I_0HqlTKDa9TxoCVSsQAvD_BwE&hvadid=374141090569&hvdev=c&hvlocphy=9055883&hvnetw=g&hvqmt=e&hvrand=4439840064625659062&hvtargid=kwd-647040535396&hydadcr=7973_1755004&tag=googhydr0a8-21&ref=pd_sl_4davh8rwos_e
 
 https://www.inpact-hardware.com/article/1200/nvidia-jetson-nano-super-raspberry-pi-a-128-cuda-cores-pour-99-dollars
+
+# industrial design
+
+https://www.pcmag.com/encyclopedia/term/industrypack
+
+https://www.pcmag.com/encyclopedia/term/pc104
