@@ -1,4 +1,6 @@
 
+https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/
+
 # Social
 
 https://hackernoon.com/
