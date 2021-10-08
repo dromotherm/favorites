@@ -109,6 +109,8 @@ https://suministrosdelsol.com/en/inversores-hibridos-monofasicos/580-hybrid-inve
 
 ## buildings
 
+https://www.ibs-event.com/
+
 https://www.smartbuildingsalliance.org/le-building-operation-system-incontrounable-du-smart-building
 
 https://www.smartbuildingsalliance.org/category-blog-smart-building-intelligence-artificielle-cas-d-usages-smart-building
