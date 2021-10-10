@@ -1,6 +1,10 @@
 # favorites
 my personal favorites
 
+## speedtesting
+
+https://phoenixnap.com/kb/linux-network-speed-test
+
 ## seo
 
 https://www.maddyness.com/2020/02/05/bible-referencement-google-seo-startup/
