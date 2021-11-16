@@ -137,6 +137,8 @@ http://ebeclim.org/cvc_prodistrib.html
 
 https://github.com/srouchier/buildingenergygeeks
 
+https://formation.xpair.com
+
 ## home automation / domotique
 
 http://www.davidhunt.ie/diy-smart-home-heating-control-system/
