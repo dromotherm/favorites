@@ -1,3 +1,9 @@
+# Module de calcul Raspberry Pi 4 (CM4) 2 Go, 16 Go de mémoire Flash
+
+https://fr.rs-online.com/web/p/raspberry-pi/2064850?cm_mmc=FR-PLA-DS3A-_-bing-_-PLA_FR_FR_Raspberry_Pi_%26_Arduino_%26_Outils_de_d%C3%A9veloppement_Whoop-_-(FR:Whoop!)+Raspberry+Pi-_-PRODUCT_GROUP&matchtype=e&pla-4575617644311344&gclsrc=ds&gclsrc=ds
+
+# classic
+
 https://raspberrypi.stackexchange.com/questions/51410/what-is-rpikernelhack
 
 https://github.com/raspberrypi/linux
