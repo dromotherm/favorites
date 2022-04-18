@@ -218,6 +218,8 @@ https://capitalfinance.lesechos.fr/fonds/actus-des-fonds-vehicules/sofimac-im-sa
 
 ## examples de startups/sociétés similaire à ce qu'on veut faire
 
+société d'optimisation : https://www.artelys.com/fr/qui-sommes-nous/
+
 https://www.optimistik.fr/
 
 https://meteoviva.com/
