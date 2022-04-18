@@ -131,7 +131,9 @@ https://www.enerj-meeting.com/conference/workshops-pitchs
 
 CitySIm : www.kaemco.ch/download.php
 
-### chauffage
+### chauffage ventilation
+
+https://produits.batiactu.com/famille-regulation--modules-et-terminaux--574.php
 
 https://energieplus-lesite.be/techniques/chauffage10/chauffage-a-eau-chaude/regulation-des-chaudieres/
 
