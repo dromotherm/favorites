@@ -240,6 +240,8 @@ http://paulgraham.com/articles.html
 
 https://serialmentor.com/dataviz/
 
+https://anttilip.net/my-data-visualizations/
+
 ## open data
 
 http://dridk.me/python-requests.html
