@@ -16,6 +16,11 @@ L'essence de la machine coûte 5000 fois moins que le travail de la machine
 
 **Un travailleur de force peut fournir entre 10 et 100 kWh par an**
 
+1 paire de jambes : 100 W de puissance
 
+Quelques ordres de grandeur:
+- mixeur = 4 paires de jambes
+- aspirateur = 10 paires de jambes
+- ascenseur = 50 paires de jambes
 
-
+1 bras : 10 W de puissance
