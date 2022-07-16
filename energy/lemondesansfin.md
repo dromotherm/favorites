@@ -8,7 +8,11 @@ Monter un dénivelé de 2000 m avec un sac de 10kg au cours d'une marche de 10h 
 
 Au Smic qui est à 10 euros par heure, cette marche coûte 10*10 euros pour 0.5 kWh soit 200 euros par kWh
 
-Décaisser 15 t de terre soig 6 m3 : 0.05 kWh
+Décaisser 15 t de terre soit 6 m3 : 0.05 kWh
+
+Tjrs au smic, ce décaissement qui demande 10 heures de travail de force coûte 100 euros pour 0.05 kWh soit 2000 euros par kWh
+
+L'essence de la machine coûte 5000 fois moins que le travail de la machine
 
 **Un travailleur de force peut fournir entre 10 et 100 kWh par an**
 
