@@ -23,4 +23,4 @@ Quelques ordres de grandeur:
 - aspirateur = 10 paires de jambes
 - ascenseur = 50 paires de jambes
 
-1 bras : 10 W de puissance
+1 paire de bras : 10 W de puissance
