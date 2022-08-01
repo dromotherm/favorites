@@ -1,3 +1,5 @@
+https://www.climat-en-questions.fr/reponse/fonctionnement-climat/bilan-radiatif-terre-par-robert-kandel-serge-planton
+
 https://www.climat-en-questions.fr/reponse/evolution-actuelle/temperature-globale-par-alexis-hannart
 
 https://planet-terre.ens-lyon.fr/ressource/bilan-radiatif-terre2.xml
