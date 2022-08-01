@@ -38,13 +38,13 @@ https://www.home-assistant.io/
 
 https://github.com/home-assistant/core
 
-https://www.cahiers-techniques-batiment.fr/article/dix-recommandations-pour-une-ville-smart-et-green.45611
+
 
 https://www.distech-controls.com/
 
 https://new.abb.com/low-voltage/fr/produits/home-and-building-automation/gamme-produits/newron-solution/serveur-dautomation-dogate
 
-## Les dix recommandations de la SBA
+## Les dix recommandations de la SBA - https://www.cahiers-techniques-batiment.fr/article/dix-recommandations-pour-une-ville-smart-et-green.45611
 - développer la culture digitale de l’ensemble des acteurs (plus d’appels d’offres numériques), 
 - définir et partager un schéma directeur numérique à tous les échelons du territoire (organisations et systèmes d’information, des investissements en infrastructure, services et contrats et de la gouvernance des données). 
 - s’appuyer sur des écosystèmes de partenaires alignés sur la vision du territoire proposant des solutions ouvertes basées sur des référentiels communs ; 
