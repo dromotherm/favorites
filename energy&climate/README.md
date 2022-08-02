@@ -15,6 +15,31 @@ https://www.afis.org/Climat-Questions-de-base-controverse-et-dimension-societale
 
 https://www.batiactu.com/edito/mobilistion-sobriete-enr-pompe-a-chaleur-priorites-64517.php?MD5email=7990f9ffd110522d9783a851b99cabe5&utm_source=alerte_actu&utm_medium=edito
 
+## météo
+
+https://github.com/meteofrance
+
+https://meteofrance.github.io/meteonet/
+
+https://data.opendatasoft.com/pages/home/
+
+https://www.meteo-lyon.net/france/sites-meteo.html
+
+## modèles météofrance
+
+EN SAVOIR PLUS SUR le modèle le plus récent : http://www.meteofrance.fr/prevoir-le-temps/la-prevision-du-temps/le-modele-a-maille-fine-arome
+
+https://www.meteociel.fr/modeles/arome.php
+
+https://data.opendatasoft.com/explore/dataset/arpege-05-sp1_sp2%40public/table/
+
+https://data.opendatasoft.com/explore/dataset/arome-0025-sp1_sp2%40public/table/
+
+https://data.opendatasoft.com/explore/dataset/arome-0025-enriched%40public/information/?disjunctive.commune&disjunctive.code_commune
+
+http://www.ogimet.com/indicativos.phtml.en
+
+
 # ENERGY
 
 https://negawatt.org/Scenario-europeen
