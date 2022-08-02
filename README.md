@@ -71,44 +71,6 @@ https://aws.amazon.com/fr/blogs/opensource/keeping-open-source-open-open-distro-
 https://arstechnica.com/information-technology/2019/10/is-the-software-world-taking-too-much-from-the-open-source-community/
 
 
-## energy
-
-https://negawatt.org/Scenario-europeen
-
-JANCOVICI : https://www.youtube.com/watch?v=Vjkq8V5rVy0
-
-http://www.opex-project-management.com/
-
-https://netset.csaladen.es
-
-![](images/energy.png)
-source are on https://github.com/csaladenes/netset
-use of the [d3plus](https://d3plus.org/) js library cf https://github.com/alexandersimoes/d3plus and cf https://github.com/d3/d3
-
-sankey diagram
-
-https://sankey.csaladen.es/
-
-
-https://frankdiana.net/2014/07/15/the-energy-internet/
-
-https://www.numerama.com/tech/573675-ces-panneaux-solaires-atteignent-une-chaleur-record-un-bond-dans-le-futur-pour-lindustrie.html
-
-
-
-
-### smartgrids
-
-smartgrid de génération 5
-https://5gdhc.eu/
-
-### solar
-
-https://fr.goodwe.com
-
-https://suministrosdelsol.com/en/inversores-hibridos-monofasicos/580-hybrid-inverter-goodwe-gw5048-em.html
-
-
 ## embedded systems with linux
 
 https://www.thirtythreeforty.net/posts/2019/08/mastering-embedded-linux-part-1-concepts/
@@ -183,27 +145,3 @@ https://anttilip.net/my-data-visualizations/
 ## open data
 
 http://dridk.me/python-requests.html
-
-### météo
-
-https://github.com/meteofrance
-
-https://meteofrance.github.io/meteonet/
-
-https://data.opendatasoft.com/pages/home/
-
-https://www.meteo-lyon.net/france/sites-meteo.html
-
-#### modèles météofrance
-
-EN SAVOIR PLUS SUR le modèle le plus récent : http://www.meteofrance.fr/prevoir-le-temps/la-prevision-du-temps/le-modele-a-maille-fine-arome
-
-https://www.meteociel.fr/modeles/arome.php
-
-https://data.opendatasoft.com/explore/dataset/arpege-05-sp1_sp2%40public/table/
-
-https://data.opendatasoft.com/explore/dataset/arome-0025-sp1_sp2%40public/table/
-
-https://data.opendatasoft.com/explore/dataset/arome-0025-enriched%40public/information/?disjunctive.commune&disjunctive.code_commune
-
-http://www.ogimet.com/indicativos.phtml.en
