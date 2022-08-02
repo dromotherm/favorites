@@ -73,8 +73,6 @@ https://arstechnica.com/information-technology/2019/10/is-the-software-world-tak
 
 ## energy
 
-https://www.plancher-chauffant-caleosol.fr/geothermie/ballon-ecs-pour-pompe-a-chaleur-geothermique
-
 https://negawatt.org/Scenario-europeen
 
 JANCOVICI : https://www.youtube.com/watch?v=Vjkq8V5rVy0
@@ -96,9 +94,8 @@ https://frankdiana.net/2014/07/15/the-energy-internet/
 
 https://www.numerama.com/tech/573675-ces-panneaux-solaires-atteignent-une-chaleur-record-un-bond-dans-le-futur-pour-lindustrie.html
 
-https://www.batirama.com/amp/article/27784-les-pompes-a-chaleur-nouvelle-generation-voient-le-jour-a-interclima-2019.html
 
-http://www.acr-regulation.com/
+
 
 ### smartgrids
 
