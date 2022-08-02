@@ -51,6 +51,8 @@ https://planet-terre.ens-lyon.fr/ressource/gaz-effet-serre.xml
 
 ## bilan radiatif de la terre - plus compliqué
 
+D'une manière générale dans ce bilan global, la production d’énergie non renouvelable par les activités humaines est négligeable, même si elle produit des îlots de chaleur dans les grandes villes.
+
 https://www.climat-en-questions.fr/reponse/fonctionnement-climat/bilan-radiatif-terre-par-robert-kandel-serge-planton
 
 **la situation de la terre si elle était à l'équilibre**
