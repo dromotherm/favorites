@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Building_performance_simulation
 
 https://www.enerj-meeting.com/conference/workshops-pitchs
 
-CitySIm : www.kaemco.ch/download.php
+CitySIm - free simulateur de bâtiment : www.kaemco.ch/download.php
 
 ## PAC
 
