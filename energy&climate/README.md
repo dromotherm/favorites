@@ -17,27 +17,21 @@ https://www.batiactu.com/edito/mobilistion-sobriete-enr-pompe-a-chaleur-priorite
 
 ## météo
 
-https://github.com/meteofrance
+le plus opérationnel en la matière est le site openweathermap qui exploite un modèle américain de type Global Forecast System (GFS) mais il y a des ressources nationales
 
-https://meteofrance.github.io/meteonet/
+1) [**github météofrance**](https://github.com/meteofrance) 
+2) [**doc meteonet**](https://meteofrance.github.io/meteonet/)
+3) https://data.opendatasoft.com/pages/home/
+4) https://www.meteo-lyon.net/france/sites-meteo.html
 
-https://data.opendatasoft.com/pages/home/
+### modèles météofrance
 
-https://www.meteo-lyon.net/france/sites-meteo.html
-
-## modèles météofrance
-
-EN SAVOIR PLUS SUR le modèle le plus récent : http://www.meteofrance.fr/prevoir-le-temps/la-prevision-du-temps/le-modele-a-maille-fine-arome
-
-https://www.meteociel.fr/modeles/arome.php
-
-https://data.opendatasoft.com/explore/dataset/arpege-05-sp1_sp2%40public/table/
-
-https://data.opendatasoft.com/explore/dataset/arome-0025-sp1_sp2%40public/table/
-
-https://data.opendatasoft.com/explore/dataset/arome-0025-enriched%40public/information/?disjunctive.commune&disjunctive.code_commune
-
-http://www.ogimet.com/indicativos.phtml.en
+1) EN SAVOIR PLUS SUR le modèle le plus récent : http://www.meteofrance.fr/prevoir-le-temps/la-prevision-du-temps/le-modele-a-maille-fine-arome
+2) https://www.meteociel.fr/modeles/arome.php
+3) https://data.opendatasoft.com/explore/dataset/arpege-05-sp1_sp2%40public/table/
+4) https://data.opendatasoft.com/explore/dataset/arome-0025-sp1_sp2%40public/table/
+5) https://data.opendatasoft.com/explore/dataset/arome-0025-enriched%40public/information/?disjunctive.commune&disjunctive.code_commune
+6) http://www.ogimet.com/indicativos.phtml.en
 
 
 # ENERGY
