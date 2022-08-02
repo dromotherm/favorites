@@ -1,5 +1,5 @@
 
-https://www.climat-en-questions.fr/reponse/fonctionnement-climat/bilan-radiatif-terre-par-robert-kandel-serge-planton
+
 
 https://planet-terre.ens-lyon.fr/ressource/gaz-effet-serre.xml
 
