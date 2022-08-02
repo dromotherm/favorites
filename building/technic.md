@@ -20,6 +20,8 @@ CitySIm : www.kaemco.ch/download.php
 
 https://www.plancher-chauffant-caleosol.fr/geothermie/ballon-ecs-pour-pompe-a-chaleur-geothermique
 
+https://www.batirama.com/amp/article/27784-les-pompes-a-chaleur-nouvelle-generation-voient-le-jour-a-interclima-2019.html
+
 
 ## chauffage ventilation
 
