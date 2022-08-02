@@ -1,5 +1,5 @@
 
-
+# LE CLIMAT
 
 https://planet-terre.ens-lyon.fr/ressource/gaz-effet-serre.xml
 
@@ -15,7 +15,45 @@ https://www.afis.org/Climat-Questions-de-base-controverse-et-dimension-societale
 
 https://www.batiactu.com/edito/mobilistion-sobriete-enr-pompe-a-chaleur-priorites-64517.php?MD5email=7990f9ffd110522d9783a851b99cabe5&utm_source=alerte_actu&utm_medium=edito
 
-# techno renouv ?
+# ENERGY
+
+https://negawatt.org/Scenario-europeen
+
+JANCOVICI : https://www.youtube.com/watch?v=Vjkq8V5rVy0
+
+## https://netset.csaladen.es
+
+![](../images/energy.png)
+source are on https://github.com/csaladenes/netset
+
+use of the [d3plus](https://d3plus.org/) 
+
+js library cf https://github.com/alexandersimoes/d3plus and cf https://github.com/d3/d3
+
+## bilan énergétique avec le sankey diagram
+
+https://sankey.csaladen.es/
+
+# DU POUVOIR DES LOBBIES...
+
+http://www.opex-project-management.com/
+
+# SMARTGRIDS ET INTERNET DE L'ENERGIE
+
+https://frankdiana.net/2014/07/15/the-energy-internet/
+
+smartgrid de génération 5
+https://5gdhc.eu/
+
+# SOLAR
+
+https://fr.goodwe.com
+
+https://suministrosdelsol.com/en/inversores-hibridos-monofasicos/580-hybrid-inverter-goodwe-gw5048-em.html
+
+https://www.numerama.com/tech/573675-ces-panneaux-solaires-atteignent-une-chaleur-record-un-bond-dans-le-futur-pour-lindustrie.html
+
+# TECHNO RENOUV OU USINES A GAZ ?
 
 https://www.batiactu.com/edito/un-parc-trois-ans-de-travaux-et-de-multiples-adaptations-62741.php
 
