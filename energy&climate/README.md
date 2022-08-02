@@ -41,6 +41,12 @@ Prenons une plaque noire dont la face arrière est isolée thermiquement. On ne 
 
 **Dans le cas a, la plaque émet 100 alors que dans le cas b, elle émet 200. Et cette émission plus importante se fait via une augmentation de la température de la plaque.**
 
+Sur Terre, les constituants qui interviennent dans l'effet de serre naturel sont la vapeur d'eau, le dioxyde de carbone, méthane... Le rayonnement solaire, essentiellement visible, est réfléchi à 30 % par l'atmosphère et le sol, 20 % est absorbé par l'ozone et la vapeur d'eau. Les 50 % restant, sont absorbés par la surface puis réémis sous forme de rayonnement infrarouge. Certains auteurs parlent de rayonnement infrarouge tellurique.
+
+L'atmosphère terrestre absorbe alors 95% de ce rayonnement infrarouge tellurique (50 % par la vapeur d'eau, 25 % par le dioxyde de carbone, le reste par le méthane, l'ozone (qui a une bande d'absorption à 11,4 μm, les nuages...) puis réémet toujours dans l'infrarouge un rayonnement contribuant à l'échauffement du sol.
+
+Lorsqu'un corps absorbe à une fréquence donnée, il émet aussi et son émissivité est monochromatique et égale à son absorption. Donc pour un corps à une température donnée, le spectre d'émission est égal au spectre d'absorption. C'est essentiellement le rayonnement tellurique qui est absorbé par le CO2, dans la bande à 15 μm. Notez que dans la région à 4 μm, les énergies radiatives solaire et tellurique sont toutes les deux très faibles.
+
 https://planet-terre.ens-lyon.fr/ressource/gaz-effet-serre.xml
 
 ## bilan radiatif de la terre - plus compliqué
