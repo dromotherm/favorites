@@ -37,6 +37,12 @@ https://formation.xpair.com
 
 [<h2>syndicat de la régulation</h2>](http://www.acr-regulation.com/)
 
+## GTC and EnOcean
+
+https://blog.zesanglier.fr/2021/02/26/enocean-partie-1-premiers-pas-avec-enocean/
+
+https://www.manomano.fr/p/tete-thermostatique-enocean-sans-pile-a-effet-seebeck-ubiwizz-8887971
+
 
 ## home automation / domotique
 
