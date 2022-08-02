@@ -35,7 +35,7 @@ https://github.com/srouchier/buildingenergygeeks
 
 https://formation.xpair.com
 
-[syndicat de la régulation](http://www.acr-regulation.com/)
+[<h2>syndicat de la régulation</h2>](http://www.acr-regulation.com/)
 
 
 ## home automation / domotique
