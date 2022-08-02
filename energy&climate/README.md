@@ -1,23 +1,74 @@
+domaine | ultraviolet | visible | infrarouge 
+--|--|--|--
+longueur d'onde | inférieure à 0,3 µm (violet-bleu) | de 0,3 µm (violet-bleu) à 0,7 µm (rouge) |au delà de 0,7 µm (rouge)
+
+infrarouge | CIE | ISO
+--|--|--
+IRA (proche) | 700 à 1400 nm | 0,78 à 3 micromètres
+IRB (moyen) | 1400 à 3000 nm | 3 à 50 micromètres
+IRC (lointain) | 3000 nm à 1mm | 50 micromètres à 5mm
+
+# courtes ondes solaires
+
+cf http://www.mytopschool.net/mysti2d/activites/polynesie2/eXeL/EE/07/photovoltaique/Energie_solaire.pdf
+
+![image](https://user-images.githubusercontent.com/24553739/182421016-7dc3f685-f3dc-46ff-bc5b-da642258d435.png)
+
+# solaire + infrarouge
+
+cf https://fr.wikipedia.org/wiki/Bande_d%27absorption
+
+![image](https://user-images.githubusercontent.com/24553739/182421388-a34d5d31-f094-4042-979e-1a2acf877435.png)
+
 
 # LE CLIMAT
 
 ## l'effet de serre 
 
-Rayonnement solaire et rayonnement tellurique, Le mécanisme de l'effet de serre, analogie avec la serre, Les gaz atmosphériques à effet de serre : https://planet-terre.ens-lyon.fr/ressource/effet-de-serre.xml
+https://www.climat-en-questions.fr/reponse/fonctionnement-climat/effet-serre-par-jean-louis-fellous
+
+https://planet-terre.ens-lyon.fr/ressource/effet-de-serre.xml
+
+Prenons une plaque noire dont la face arrière est isolée thermiquement. On ne considère que les échanges radiatifs (les échanges par convection et conduction sont supposés négligeables).
+
+![image](https://user-images.githubusercontent.com/24553739/182396160-fe4c6476-0e4e-4958-b1ff-24dc64ff081b.png)
+
+(a) : si la plaque est seule, elle reçoit et absorbe le rayonnement solaire. Cette puissance absorbée vaut 100 dans une unité arbitraire. A l'équilibre thermique, les puissances reçues et perdues par la plaque sont égales, et la puissance du rayonnement infrarouge émis par la plaque vaut également 100 dans nos unités.
+
+(b) : on recouvre la plaque par une vitre parfaitement transparente au rayonnement solaire et parfaitement opaque au rayonnement infrarouge lointain. A l'équilibre thermique, le système "vitre-plaque" perd comme précédemment autant d'énergie qu'il en gagne. La seule différence est que maintenant c'est la vitre qui a émis le rayonnement infrarouge car, comme elle est parfaitement opaque à ce rayonnement, aucun rayonnement émis par la plaque ne peut être reçu à l'extérieur.
+
+(c) : regardons maintenant les échanges à l'intérieur du système "vitre-plaque". Si la vitre émet 100 vers l'extérieur, par raison de symétrie elle émet également 100 vers la plaque. Celle ci reçoit donc en plus du rayonnement solaire le rayonnement infrarouge émis par la vitre. A l'équilibre thermique, la plaque doit perdre par rayonnement infrarouge autant d'énergie qu'elle en gagne, c'est-à-dire 200 dans nos unités. On peut vérifier que la vitre est alors aussi en équilibre : elle reçoit 200 et émet 200 (100 vers l'extérieur, 100 vers la plaque).
+
+**Dans le cas a, la plaque émet 100 alors que dans le cas b, elle émet 200. Et cette émission plus importante se fait via une augmentation de la température de la plaque.**
 
 https://planet-terre.ens-lyon.fr/ressource/gaz-effet-serre.xml
 
-
+## bilan radiatif de la terre - plus compliqué
 
 https://www.climat-en-questions.fr/reponse/fonctionnement-climat/bilan-radiatif-terre-par-robert-kandel-serge-planton
 
-https://www.climat-en-questions.fr/reponse/evolution-actuelle/temperature-globale-par-alexis-hannart
+**la situation de la terre si elle était à l'équilibre**
+
+![image](https://user-images.githubusercontent.com/24553739/182404751-f44f8425-bef4-439b-917d-cd67151349d4.png)
+
+bilan | arrivant | sortant
+--|--|--
+au niveau de l'atmosphère | 17 + 80 + 356 + 78 = 531 | 169 + 30 + 333 = 532
+au niveau de la surface de la planète | 161 + 33 = 493 | 396 + 80 + 17 = 493
+
+
+Plus ou moins la même chose mais en plus facile à lire
+
+https://www.kartable.fr/ressources/enseignement-scientifique/cours/le-bilan-radiatif-terrestre/51272
+
+celà commence par la démonstration des 341 W/m2 (en utilisant quelques grandeurs connues : rayon de la terre 6.370e6 m, distance soleil terre 150e9 m, Flux énergétique du soleil 3.826 × 1026 W - cf https://fr.wikipedia.org/wiki/Soleil)
 
 https://planet-terre.ens-lyon.fr/ressource/bilan-radiatif-terre2.xml
 
 Jean POITOU tente de vulgariser : https://www.afis.org/Climat-Questions-de-base-controverse-et-dimension-societale
 
-https://www.batiactu.com/edito/mobilistion-sobriete-enr-pompe-a-chaleur-priorites-64517.php?MD5email=7990f9ffd110522d9783a851b99cabe5&utm_source=alerte_actu&utm_medium=edito
+https://www.climat-en-questions.fr/reponse/evolution-actuelle/temperature-globale-par-alexis-hannart
+
 
 ## météo
 
