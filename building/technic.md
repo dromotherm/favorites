@@ -16,6 +16,11 @@ https://www.enerj-meeting.com/conference/workshops-pitchs
 
 CitySIm : www.kaemco.ch/download.php
 
+## PAC
+
+https://www.plancher-chauffant-caleosol.fr/geothermie/ballon-ecs-pour-pompe-a-chaleur-geothermique
+
+
 ## chauffage ventilation
 
 https://produits.batiactu.com/famille-regulation--modules-et-terminaux--574.php
@@ -28,6 +33,7 @@ https://github.com/srouchier/buildingenergygeeks
 
 https://formation.xpair.com
 
+
 ## home automation / domotique
 
 http://www.davidhunt.ie/diy-smart-home-heating-control-system/
@@ -37,8 +43,6 @@ http://sarakha63-domotique.fr/jeedom-domotiser-une-vanne-3-voies/
 https://www.home-assistant.io/
 
 https://github.com/home-assistant/core
-
-
 
 https://www.distech-controls.com/
 
