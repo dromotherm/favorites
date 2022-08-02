@@ -1,9 +1,13 @@
 
 # LE CLIMAT
 
+## l'effet de serre 
+
+Rayonnement solaire et rayonnement tellurique, Le mécanisme de l'effet de serre, analogie avec la serre, Les gaz atmosphériques à effet de serre : https://planet-terre.ens-lyon.fr/ressource/effet-de-serre.xml
+
 https://planet-terre.ens-lyon.fr/ressource/gaz-effet-serre.xml
 
-https://planet-terre.ens-lyon.fr/ressource/effet-de-serre.xml
+
 
 https://www.climat-en-questions.fr/reponse/fonctionnement-climat/bilan-radiatif-terre-par-robert-kandel-serge-planton
 
