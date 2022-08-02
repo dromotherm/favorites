@@ -22,6 +22,8 @@ https://www.plancher-chauffant-caleosol.fr/geothermie/ballon-ecs-pour-pompe-a-ch
 
 https://www.batirama.com/amp/article/27784-les-pompes-a-chaleur-nouvelle-generation-voient-le-jour-a-interclima-2019.html
 
+https://www.batiactu.com/edito/mobilistion-sobriete-enr-pompe-a-chaleur-priorites-64517.php?MD5email=7990f9ffd110522d9783a851b99cabe5&utm_source=alerte_actu&utm_medium=edito
+
 
 ## chauffage ventilation
 
