@@ -65,7 +65,10 @@ celà commence par la démonstration des 341 W/m2 (en utilisant quelques grandeu
 
 https://planet-terre.ens-lyon.fr/ressource/bilan-radiatif-terre2.xml
 
-Jean POITOU tente de vulgariser : https://www.afis.org/Climat-Questions-de-base-controverse-et-dimension-societale
+Jean POITOU tente de vulgariser : 
+1) https://www.afis.org/Climat-Questions-de-base-controverse-et-dimension-societale
+2) https://www.sauvonsleclimat.org/images/articles/pdf_files/etudes/Notes_Poitou/Distinguer_le_vrai_du_faux.pdf
+3) https://www.blr2026.fr/wp-content/uploads/2020/01/Climat-distinguer-le-vrai-du-faux.pdf
 
 https://www.climat-en-questions.fr/reponse/evolution-actuelle/temperature-globale-par-alexis-hannart
 
