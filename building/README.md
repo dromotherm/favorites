@@ -15,3 +15,7 @@ https://www.batiactu.com/edito/une-longue-periode-de-renovation-62436.php
 # avant garde
 
 https://www.batiactu.com/edito/arbre-blanc-57094.php
+
+# pierre sèche
+
+https://www.lemoniteur.fr/article/un-uvre-d-art-celebre-l-epopee-de-l-ecole-de-la-pierre-seche.2216407#xtor=EPR-3&utm_source=newsletter&utm_medium=email&utm_campaign=abonnes&email=alexandre.cuer@cerema.fr
