@@ -12,7 +12,7 @@ Décaisser 15 t de terre soit 6 m3 : 0.05 kWh
 
 Tjrs au smic, ce décaissement qui demande 10 heures de travail de force coûte 100 euros pour 0.05 kWh soit 2000 euros par kWh
 
-L'essence de la machine coûte 5000 fois moins que le travail de la machine
+L'essence de la machine coûte 5000 fois moins que le travail de l'homme
 
 **Un travailleur de force peut fournir entre 10 et 100 kWh par an**
 
