@@ -85,6 +85,8 @@ http://ragworm.eu
 
 ## start your company 
 
+https://www.institutmontaigne.org/analyses/technologies-numeriques-comprendre-le-retard-croissant-de-leurope-en-huit-graphiques
+
 ( NODE JS entrepreneur like : https://feross.org/ )
 
 https://www.compta-facile.com/choisir-duree-amortissement-immobilisations/
