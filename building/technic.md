@@ -1,3 +1,11 @@
+# décret BACS et classes de GTB
+
+https://www.cerema.fr/fr/actualites/retour-journee-technique-au-cerema-autour-sobriete
+
+https://www.calculcee.fr/article/gtb-classe-a-classe-b-norme-nf-en-iso-52120-1-2022/
+
+https://www.cerema.fr/system/files/documents/2023/03/gtb_et_outils_de_suivi_multi_sites_cd13_0.pdf
+
 # buildings
 
 https://www.ibs-event.com/
