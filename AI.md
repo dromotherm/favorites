@@ -1,6 +1,10 @@
 
 https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/
 
+# images
+
+https://github.com/facebookresearch/segment-anything
+
 # from text to image
 
 https://huggingface.co/spaces/stabilityai/stable-diffusion
