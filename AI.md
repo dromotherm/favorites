@@ -82,8 +82,6 @@ https://teahouse.fifty-five.com/fr/petit-guide-du-machine-learning-partie-4-lapp
 
 https://blog.engineering.publicissapient.fr/2020/02/28/reinforcement-learning-partie-2-one-step-deeper/
 
-https://blog.engineering.publicissapient.fr/?s=reinforcement
-
 # deeplearning.ai and al
 
 TD lambda
