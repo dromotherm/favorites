@@ -20,8 +20,6 @@ https://en.wikipedia.org/wiki/Sigmoid_function
 
 https://fr.wikipedia.org/wiki/Q-learning
 
-https://adventuresinmachinelearning.com/neural-networks-tutorial
-
 # keras
 
 https://lesdieuxducode.com/blog/2019/1/prototyper-un-reseau-de-neurones-avec-keras
@@ -40,15 +38,9 @@ https://www.tensorflow.org/guide/migrate
 
 # Practical guides
 
-https://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
-
-https://adventuresinmachinelearning.com/python-tensorflow-tutorial/
+https://github.com/adventuresinML/adventures-in-ml-code
 
 # Practical guides reinforcement
-
-https://adventuresinmachinelearning.com/reinforcement-learning-tensorflow/
-
-https://adventuresinmachinelearning.com/reinforcement-learning-tutorial-python-keras/
 
 https://blog.tensorflow.org/2018/07/deep-reinforcement-learning-keras-eager-execution.html?m=1
 
