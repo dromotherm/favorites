@@ -2,6 +2,13 @@ https://www.batiactu.com/edito/confort-dete-syndicat-filmm-propose-solutions-dan
 
 https://knaufstudio.fr/le-mag/nouveaux-systemes-baffles-acoustiques-knauf/?mtm_source=batiactu&mtm_medium=newsletter-media&mtm_campaign=PLAFONDS2022&mtm_content=native
 
+# CEE
+
+http://calculateur-cee.ademe.fr/user/login#tab-BAT
+
+https://www.interlud.green/faq
+
+
 # jolis espaces
 
 https://www.maisonapart.com/edito/construire-renover/renovation-extension/une-vieille-meuliere-retrouve-son-esprit-maison-de-12961.php?utm_source=news_actu&utm_medium=email
