@@ -130,6 +130,10 @@ https://meteoviva.com/
 
 https://riptideio.com/
 
+https://www.energy-pool.eu/fr/
+
+https://exotic-systems.com/
+
 ## incubation
 
 https://www.ycombinator.com/video/
