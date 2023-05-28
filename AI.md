@@ -1,7 +1,12 @@
+# robotics
+
+https://www.bostondynamics.com/
+
+# habana labs
 
 https://techcrunch.com/2019/12/16/intel-buys-ai-chipmaker-habana-for-2-billion/
 
-# images
+# reconnaissance d'images
 
 https://github.com/facebookresearch/segment-anything
 
