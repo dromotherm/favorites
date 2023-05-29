@@ -1,3 +1,13 @@
+https://www.boursorama.com/cours/1uGSK.L/
+
+https://www.boursorama.com/cours/NTRA/
+
+https://www.boursorama.com/cours/KRYS/
+
+## intracellular therapies
+https://www.boursorama.com/cours/actualites/ITCI/
+
+
 https://www.cafedelabourse.com/archive/article/comment-investir-biotechs
 
     Cellectis (643 M €)
