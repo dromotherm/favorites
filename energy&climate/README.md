@@ -62,7 +62,7 @@ https://www.climat-en-questions.fr/reponse/fonctionnement-climat/bilan-radiatif-
 bilan | arrivant | sortant
 --|--|--
 au niveau de l'atmosphère | 17 + 80 + 356 + 78 = 531 | 169 + 30 + 333 = 532
-au niveau de la surface de la planète | 161 + 33 = 493 | 396 + 80 + 17 = 493
+au niveau de la surface de la planète | 161 + 333 = 493 | 396 + 80 + 17 = 493
 
 
 Plus ou moins la même chose mais en plus facile à lire
