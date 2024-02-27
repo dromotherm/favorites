@@ -13,6 +13,20 @@ google search console
 
 ## software
 
+### why go
+
+Google has two tremendous problems. One of them is compile time. Back in the 1980’s, reasonable sized projects took hours to do a clean build. There were whole server farms dedicated to recompiling. You got a new “nightly build” and made modifications to that.
+
+Google builds things that are so ridiculously huge that it’s still like that in 2017. It takes 5 hours to rebuild chrome from scratch even on a big fat i7 system. The pain of compile time on these builds is so great that Google has invented build tools that separate the dependency analysis and compiling, just to gain a few per cent in build time using conventional languages. Go is designed for quick compilation without the need for dependency checking, so it addresses the build pain.
+
+Google’s other problem is string processing. Google reads and analyzes a lot of web pages, which are text files. They do a lot of string manipulation, so it pays for this to be really efficient. Google built a rich library of string functions into Go, Garbage collecting makes strings in Go simple to think about, and efficient in ways some other string libraries are not (I’m talking to you, C++ committee).
+
+Everybody thinks they’re a language designer. Microsoft and Apple had their own languages, (Apple has two these days). Google decided they needed their own, I guess. Then Facebook joined the proprietary language party, leaving only poor homely Amazon alone at the language dance. As a language design, Go is not unreasonable. It does what it says on the tin. It’s not in any way innovative, but certainly well designed for a very specific use.
+
+Go has good concurrency support, which is essential for a language designed after 2002, and for companies who have a million servers waiting to be spun up. But it’s not breaking new ground in concurrency.
+
+Go = C + strings + garbage collection + concurrency. If you want to build really big programs to analyze the whole freakin’ internet, Go would be a pretty good choice for you.
+
 ### Redis 
 About streams : https://m.youtube.com/watch?v=qXEyuUxQXZM
 
