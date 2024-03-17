@@ -1,3 +1,5 @@
+https://www.futura-sciences.com/tech/actualites/technologie-elon-musk-predit-ia-va-heurter-cette-double-penurie-an-112175/
+
 # robotics
 
 https://www.bostondynamics.com/
