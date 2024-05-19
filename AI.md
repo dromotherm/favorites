@@ -1,3 +1,13 @@
+
+
+https://huggingface.co/
+
+https://github.com/karpathy/nanoGPT
+
+https://ai.plainenglish.io/reinforcement-learning-is-dead-long-live-the-transformer-228835689841
+
+https://github.com/kzl/decision-transformer/tree/master
+
 stormdrop : génération de nombre aléatoires
 
 https://github.com/williamstaffordparsons
@@ -71,7 +81,7 @@ http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/fr_Tanagra_Packages_Python_for
 
 http://www.morrisriedel.de/wp-content/uploads/2018/04/2018-04-19-Deep-Learning-with-Python-Morris-Riedel-v1.pdf
 
-# insiste tensorflow
+# inside tensorflow
 
 https://www.tensorflow.org/guide/keras
 
