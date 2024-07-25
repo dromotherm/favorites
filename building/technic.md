@@ -2,6 +2,8 @@ https://www.cerema.fr/fr/actualites/retours-enseignements-conference-technique-t
 
 https://www.cerema.fr/fr/actualites/equipe-recherche-bpe-developpe-valide-outil-simulation
 
+https://www.cerema.fr/fr/actualites/rite-outil-evaluation-du-risque-inconfort-thermique-ete#toc-l-outil-rite
+
 # Regulation
 
 https://revolutionpi.com/success-stories/
