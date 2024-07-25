@@ -1,5 +1,7 @@
 https://www.cerema.fr/fr/actualites/retours-enseignements-conference-technique-territoriale-du
 
+https://www.cerema.fr/fr/actualites/equipe-recherche-bpe-developpe-valide-outil-simulation
+
 # Regulation
 
 https://revolutionpi.com/success-stories/
