@@ -1,4 +1,6 @@
-Por commencer :
+https://github.com/asweigart
+
+Pour commencer :
 http://www.xavierdupre.fr/app/teachpyx/helpsphinx/c_resume/python_sheet.html
 
 A lot is on the psf (python software foundation) github :
