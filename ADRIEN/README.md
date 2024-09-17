@@ -8,9 +8,9 @@ https://lecluseo.scenari-community.org/TES/CH6%20Convexite/co/G_ln.html
 # sujets de maths
 https://prepas.org/index.php?module=Sujets
 
-Voir CentraleSupélec_2024_PSI_Mathématiques_1 : intégrale de Gauss et de Wallis, assez abordable
+Voir `CentraleSupélec_2024_PSI_Mathématiques_1` : intégrale de Gauss et de Wallis, assez abordable
 
-Chercher algèbre générale puis prendre le sujet `2024Banque X-ÉNS - MP MPI - Mathématiques A`
+Chercher algèbre générale puis prendre le sujet `2024Banque X-ÉNS - MP MPI - Mathématiques A` Évaluations asymptotiques en arithmétique et sur les permutations, début sur les matrices assez intéressant
 
 MinesPonts 2024 - phénomènes de seuils dans les graphes : https://cpge-paradise.com/Concours2024/MinesPonts/MP/corriges/Math2MP2024cor.pdf
 
