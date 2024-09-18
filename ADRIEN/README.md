@@ -1,3 +1,8 @@
+cours sur les espaces vectoriels
+https://math.univ-cotedazur.fr/~phm/L1.17-18/support4.17-18.pdf
+
+exos sur les espaces vectoriels 
+http://ddmaths.free.fr/chapd61.html
 
 https://mathieu-mansuy.fr/pdf/PCSI5-chapitre20.pdf
 
