@@ -1,4 +1,7 @@
 
+https://mathieu-mansuy.fr/pdf/PCSI5-chapitre20.pdf
+
+
 # convergence simple et uniforme
 https://www.bibmath.net/dico/index.php?action=affiche&quoi=./c/cvu.html
 
