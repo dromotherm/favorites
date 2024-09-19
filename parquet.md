@@ -8,3 +8,4 @@ https://www.votreparquet.com/point-de-hongrie
 
 https://www.tropical-woods.fr/catalogue/interieurs/parquets-speciaux/parquets-de-style/parquets-point-de-hongrie/parquets-point-de-hongrie-massif
 
+https://www.parquetsprotat.com/parquet-chene-massif-point-de-hongrie-authentique.html
