@@ -6,3 +6,5 @@ https://www.decoplus-parquet.com/fr/parquet-massif/1956-point-de-hongrie-nobless
 
 https://www.votreparquet.com/point-de-hongrie
 
+https://www.tropical-woods.fr/catalogue/interieurs/parquets-speciaux/parquets-de-style/parquets-point-de-hongrie/parquets-point-de-hongrie-massif
+
