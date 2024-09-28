@@ -6,6 +6,9 @@ http://ddmaths.free.fr/chapd61.html
 
 https://mathieu-mansuy.fr/pdf/PCSI5-chapitre20.pdf
 
+http://alain.troesch.free.fr/
+professeur MP lycée Lakanal Sceaux
+
 
 # convergence simple et uniforme
 https://www.bibmath.net/dico/index.php?action=affiche&quoi=./c/cvu.html
