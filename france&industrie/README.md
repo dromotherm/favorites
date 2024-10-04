@@ -1,3 +1,5 @@
+https://penta-eureka.eu/pdf/penta-driving-digital-innovation/
+
 https://www.renaultgroup.com/news-onair/actualites/vehicule-autonome-renault-group-fait-le-choix-dune-strategie-differenciee-entre-vehicules-individuels-et-transports-publics/
 
 # rapport sur le marché du véhicule autonome et des semi-conducteurs 
