@@ -1,3 +1,7 @@
+https://www.adaptation-changement-climatique.gouv.fr/actualites/veille/mission-adaptation-nouveau-guichet-unique-pour-les-collectivites
+
+https://www.banquedesterritoires.fr/mission-adaptation-un-nouveau-guichet-unique-pour-les-collectivites
+
 https://www.lagazettedescommunes.com/767329/%e2%80%89le-terme-territoires-est-une-ficelle-mediatique-et-politique%e2%80%89/?abo=1
 
 Pour mieux comprendre le retour en grâce des questions territoriales, « La Gazette » a rencontré le géographe ­Aurélien ­Delpirou, qui dénonce le triomphe d’une vision binaire du territoire et le culte de la proximité. Ce maître de conférences à l’Ecole d’urbanisme de Paris, détaché au secrétariat général du Club ville aménagement, regrette que cette politisation et cette médiatisation se résument souvent à « une ficelle » pour décrire une réalité souvent « fantasmée ou nostalgique », bien loin de l’état des connaissances aujourd’hui sur ces questions de fractures territoriales.
