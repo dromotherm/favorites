@@ -1,3 +1,20 @@
+nopia :
+- https://nopia.io/
+- https://www.youtube.com/watch?v=Ivuy9QYLFVY
+
+OP1 : 
+- https://www.youtube.com/watch?v=WSP36Ecmk0Q
+- https://www.audiosolutions.fr/synthetiseur/10913-op-1-field-15508.html
+
+moog labyrynth + metal fetishist + ableton
+- https://www.youtube.com/watch?v=ROafzxS1QxY
+
+metal fetishist : 
+- https://bodysynths.com/pages/support
+- https://s3.amazonaws.com/files.bodysynths.com/mf/BodySynths_MetalFetishist_Reference_Manual_v1.1.pdf
+
+
+
 # ColinBender
 
 4x4 is not dead !
