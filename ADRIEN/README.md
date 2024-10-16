@@ -27,6 +27,17 @@ MinesPonts 2024 - phénomènes de seuils dans les graphes : https://cpge-paradis
 
 # physique
 
+## les types d'interaction
+
+interaction faible | interaction forte | interaction électromagnétique | intéraction gravitationnelle
+--|--|--|--
+10 puissance -18 m  | 10 puissance -15 m |10 puissance -15 m à 10m | de 10 m à 10 puissance 26 m
+radioactivité | cohésion du noyau | cohésion de l'atome | cohésion des galaxies
+
+https://www.physagreg.fr/electromagnetisme-11-champ-electrostatique.php
+
+## sujets
+
 - https://cpge-paradise.com/MP4Phys.php
 
 sujet sur la cuisson des oeufs : https://cpge-paradise.com/MP4Phys/DS/DS6.pdf
