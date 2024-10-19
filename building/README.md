@@ -1,3 +1,6 @@
+https://www.actu-environnement.com/ae/news/marque-collective-flex-ready-deploiement-systemes-GTB-Bacs-batiment-tertiaire-flexibilite-energie-44912.php4#ntrack=cXVvdGlkaWVubmV8MzYzNA%3D%3D[NjAyMzY3]
+
+
 https://www.batiactu.com/edito/confort-dete-syndicat-filmm-propose-solutions-dans-64555.php?MD5email=7990f9ffd110522d9783a851b99cabe5&utm_source=news_actu&utm_medium=edito&utm_content=article
 
 https://knaufstudio.fr/le-mag/nouveaux-systemes-baffles-acoustiques-knauf/?mtm_source=batiactu&mtm_medium=newsletter-media&mtm_campaign=PLAFONDS2022&mtm_content=native
