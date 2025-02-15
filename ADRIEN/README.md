@@ -54,6 +54,17 @@ sujet thermo :
 - énoncé : https://cahier-de-prepa.fr/mp-bart/download?id=68
 - corrigé : https://cahier-de-prepa.fr/mp-bart/download?id=69
 
-Centrale 2015 - installation nucléaire REP
+### Centrale 2016 - installation nucléaire REP
 
 https://www.elearning-cpge.com/biblio-concours/centrale-2016-mp-physique-chimie-2/
+
+http://b.louchart.free.fr/Concours_et_examens/Centrale_Supelec/Sujets/2016_MP_Physique_Chimie_2.html
+
+https://sites.google.com/view/concourscpgecorrections/concours-2016
+
+### Centrale 2018 - Géophysique de la planète Terre
+
+
+http://b.louchart.free.fr/Concours_et_examens/Centrale_Supelec/Sujets/2018_MP_Physique_Chimie_2.html
+
+Avec un corrigé vidéo d'un prof !
