@@ -54,4 +54,6 @@ sujet thermo :
 - énoncé : https://cahier-de-prepa.fr/mp-bart/download?id=68
 - corrigé : https://cahier-de-prepa.fr/mp-bart/download?id=69
 
+Centrale 2015 - installation nucléaire REP
 
+https://www.elearning-cpge.com/biblio-concours/centrale-2016-mp-physique-chimie-2/
