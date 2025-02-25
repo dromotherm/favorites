@@ -68,3 +68,13 @@ https://sites.google.com/view/concourscpgecorrections/concours-2016
 http://b.louchart.free.fr/Concours_et_examens/Centrale_Supelec/Sujets/2018_MP_Physique_Chimie_2.html
 
 Avec un corrigé vidéo d'un prof !
+
+### Centrale 2024 physique chimie 2
+
+la partie sur l'atome classique de Rutherford :
+
+https://www.youtube.com/watch?v=ZdTTgtn2-m4
+
+Heisenberg : 
+
+https://www.youtube.com/watch?v=4GaXgJh_YDM
