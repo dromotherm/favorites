@@ -78,3 +78,13 @@ https://www.youtube.com/watch?v=ZdTTgtn2-m4
 Heisenberg : 
 
 https://www.youtube.com/watch?v=4GaXgJh_YDM
+
+## optique
+
+### les bases :
+
+1 : https://www.youtube.com/watch?v=9RifDT3eMy4
+
+2 : https://www.youtube.com/watch?v=0ekD-jPQEb4
+
+3 : https://www.youtube.com/watch?v=FiEJrfkQ48A
