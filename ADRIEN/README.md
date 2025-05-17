@@ -62,8 +62,11 @@ http://b.louchart.free.fr/Concours_et_examens/Centrale_Supelec/Sujets/2016_MP_Ph
 
 https://sites.google.com/view/concourscpgecorrections/concours-2016
 
-### Centrale 2018 - Géophysique de la planète Terre
+### Centrale 2017 - expérimenter avec un morceau de scotch
 
+https://www.elearning-cpge.com/biblio-concours/centrale-2017-mp-physique-chimie-2/
+
+### Centrale 2018 - Géophysique de la planète Terre
 
 http://b.louchart.free.fr/Concours_et_examens/Centrale_Supelec/Sujets/2018_MP_Physique_Chimie_2.html
 
@@ -88,3 +91,9 @@ https://www.youtube.com/watch?v=4GaXgJh_YDM
 2 : https://www.youtube.com/watch?v=0ekD-jPQEb4
 
 3 : https://www.youtube.com/watch?v=FiEJrfkQ48A
+
+https://femto-physique.fr/optique/interference-a-deux-ondes.php
+
+https://cpge-paradise.com/MP4Phys/DM/DM6.pdf
+
+https://cpge-paradise.com/MP4Phys/DM/DM6%20corrige.pdf
