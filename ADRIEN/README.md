@@ -66,6 +66,12 @@ https://sites.google.com/view/concourscpgecorrections/concours-2016
 
 https://www.elearning-cpge.com/biblio-concours/centrale-2017-mp-physique-chimie-2/
 
+http://b.louchart.free.fr/Documents/CE/01/CS/Centrale_MP_2017_Physique_Chimie_2_Enonce.pdf
+
+http://b.louchart.free.fr/Documents/CE/01/CS/Centrale_MP_2017_Physique_Chimie_2_Doc_reponse.pdf
+
+https://joffre-mp2.fr/wp-content/uploads/2024/03/ccs-2-2017-corrige.pdf
+
 ### Centrale 2018 - Géophysique de la planète Terre
 
 http://b.louchart.free.fr/Concours_et_examens/Centrale_Supelec/Sujets/2018_MP_Physique_Chimie_2.html
