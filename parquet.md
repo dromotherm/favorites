@@ -18,6 +18,8 @@ https://www.decoplus-parquet.com/fr/parquet-massif/1956-point-de-hongrie-nobless
 
 https://www.tropical-woods.fr/catalogue/interieurs/parquets-speciaux/parquets-de-style/parquets-point-de-hongrie/parquets-point-de-hongrie-massif
 
+>> https://www.tropical-woods.fr/catalogue/interieurs/parquets-speciaux/parquets-de-style/parquets-point-de-hongrie/parquets-point-de-hongrie-contrecolle?q=Epaisseur+totale+de+la+lame-14+mm
+
 # parquets protat
 
 https://www.parquetsprotat.com/parquet-chene-massif-point-de-hongrie-authentique.html
