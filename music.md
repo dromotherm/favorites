@@ -4,6 +4,8 @@ repair broken lcd : https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwiy
 
 https://www.autodafe.net/blog/242-yamaha-rm1-x-screen-fix.html
 
+http://www.allelectronique.fr/produits.php?produit_ref=C13-10UF
+
 # synths and modern grooveboxes 
 nopia :
 - https://nopia.io/
