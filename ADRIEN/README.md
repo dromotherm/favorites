@@ -103,3 +103,16 @@ https://femto-physique.fr/optique/interference-a-deux-ondes.php
 https://cpge-paradise.com/MP4Phys/DM/DM6.pdf
 
 https://cpge-paradise.com/MP4Phys/DM/DM6%20corrige.pdf
+
+## mécanique quantique
+
+https://fr.m.wikipedia.org/wiki/Intrication_quantique
+
+https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/pascale-senellart-c-est-dans-la-boite-quantique-3755611
+
+https://bsky.app/profile/sciencecqfd.bsky.social/post/3lczzjvxx4c26
+
+https://www.cea.fr/comprendre/Pages/nouvelles-technologies/essentiel-sur-ordinateur-quantique.aspx
+
+https://fr.m.wikipedia.org/wiki/Pascale_Senellart
+
