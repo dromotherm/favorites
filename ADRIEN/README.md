@@ -116,3 +116,8 @@ https://www.cea.fr/comprendre/Pages/nouvelles-technologies/essentiel-sur-ordinat
 
 https://fr.m.wikipedia.org/wiki/Pascale_Senellart
 
+### xanadu
+https://xanadu.ai/products/x-series
+
+https://github.com/XanaduAI
+
