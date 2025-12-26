@@ -36,6 +36,9 @@ https://www.youtube.com/watch?v=2y5TEbwxdfQ
 
 ## Analog
 
+gusgus live at helsinki 2012 
+https://youtu.be/e96lbFiG_k8?si=3hSBMVW_9JAa4afW
+
 http://www.orthogonaldevices.com/er-102
 
 https://vcvrack.com/
