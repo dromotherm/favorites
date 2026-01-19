@@ -1,3 +1,9 @@
+# ICU
+
+https://www.youtube.com/watch?v=GZ_NCseJLg0
+
+# ondes lumineuses
+
 domaine | ultraviolet | visible | infrarouge 
 --|--|--|--
 longueur d'onde | inférieure à 0,3 µm (violet-bleu) | de 0,3 µm (violet-bleu) à 0,7 µm (rouge) |au delà de 0,7 µm (rouge)
