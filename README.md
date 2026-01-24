@@ -1,6 +1,8 @@
 # favorites
 my personal favorites
 
+https://dri.es/25-years-of-drupal-what-i-have-learned
+
 ## speedtesting
 
 https://phoenixnap.com/kb/linux-network-speed-test
