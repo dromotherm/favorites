@@ -1,3 +1,7 @@
+# robustesse vs performance
+
+https://m.youtube.com/watch?v=O3FB-Utp_Tk&pp=0gcJCVACo7VqN5tD
+
 # ICU
 
 https://www.youtube.com/watch?v=GZ_NCseJLg0
